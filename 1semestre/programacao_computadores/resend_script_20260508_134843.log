@@ -1,0 +1,396 @@
+2026-05-08 13:48:43,169 [INFO] ################################################################################
+2026-05-08 13:48:43,169 [INFO] INÍCIO DO PROCESSAMENTO
+2026-05-08 13:48:43,169 [INFO] Total de SKUs: 26
+2026-05-08 13:48:43,169 [INFO] ################################################################################
+2026-05-08 13:48:43,169 [INFO] 
+2026-05-08 13:48:43,169 [INFO] [1/26] Processando SKU: 25387-0
+2026-05-08 13:48:43,169 [INFO] ================================================================================
+2026-05-08 13:48:43,169 [INFO] Buscando SKU: 25387-0
+2026-05-08 13:48:44,106 [INFO] Produto encontrado | SKU: 25387-0 | Tipo: configurable | ID: 69fde6701e7edc2e31f2b562
+2026-05-08 13:48:44,107 [INFO] Enviando produto | SKU: 25387-0 | Tipo: configurable | Product ID: 69fde6701e7edc2e31f2b562
+2026-05-08 13:48:45,318 [INFO] Envio realizado com sucesso | SKU: 25387-0
+2026-05-08 13:48:45,319 [INFO] Produto configurable detectado: 25387-0
+2026-05-08 13:48:45,320 [INFO] Iniciando envio dos filhos
+2026-05-08 13:48:45,320 [INFO] Processando 11 variações
+2026-05-08 13:48:45,320 [INFO] Enviando produto | SKU: 16016 | Tipo: child | Product ID: 69fde671dcb154c1e3548452
+2026-05-08 13:48:46,289 [INFO] Envio realizado com sucesso | SKU: 16016
+2026-05-08 13:48:50,296 [INFO] Enviando produto | SKU: 16017 | Tipo: child | Product ID: 69fde6731e7edc2e31f2b9cb
+2026-05-08 13:48:51,190 [INFO] Envio realizado com sucesso | SKU: 16017
+2026-05-08 13:48:55,196 [INFO] Enviando produto | SKU: 16032 | Tipo: child | Product ID: 69fde67583bc70bbd0a58e38
+2026-05-08 13:48:56,136 [INFO] Envio realizado com sucesso | SKU: 16032
+2026-05-08 13:49:00,142 [INFO] Enviando produto | SKU: 16133 | Tipo: child | Product ID: 69fde677374ce96be9f87962
+2026-05-08 13:49:01,064 [INFO] Envio realizado com sucesso | SKU: 16133
+2026-05-08 13:49:05,067 [INFO] Enviando produto | SKU: 16158 | Tipo: child | Product ID: 69fde67a37e48995b28ca987
+2026-05-08 13:49:05,987 [INFO] Envio realizado com sucesso | SKU: 16158
+2026-05-08 13:49:09,994 [INFO] Enviando produto | SKU: 16337 | Tipo: child | Product ID: 69fde67cdcb154c1e35497b4
+2026-05-08 13:49:10,892 [INFO] Envio realizado com sucesso | SKU: 16337
+2026-05-08 13:49:14,898 [INFO] Enviando produto | SKU: 16402 | Tipo: child | Product ID: 69fde67e374ce96be9f8851c
+2026-05-08 13:49:16,317 [INFO] Envio realizado com sucesso | SKU: 16402
+2026-05-08 13:49:20,324 [INFO] Enviando produto | SKU: 16435 | Tipo: child | Product ID: 69fde680dcb154c1e3549faf
+2026-05-08 13:49:21,308 [INFO] Envio realizado com sucesso | SKU: 16435
+2026-05-08 13:49:25,315 [INFO] Enviando produto | SKU: 16467 | Tipo: child | Product ID: 69fde68237e48995b28cb940
+2026-05-08 13:49:26,464 [INFO] Envio realizado com sucesso | SKU: 16467
+2026-05-08 13:49:30,470 [INFO] Enviando produto | SKU: 16468 | Tipo: child | Product ID: 69fde6841e7edc2e31f2d43a
+2026-05-08 13:49:31,443 [INFO] Envio realizado com sucesso | SKU: 16468
+2026-05-08 13:49:35,449 [INFO] Enviando produto | SKU: 16487 | Tipo: child | Product ID: 69fde686abb4183d04a7e9ca
+2026-05-08 13:49:36,360 [INFO] Envio realizado com sucesso | SKU: 16487
+2026-05-08 13:49:44,369 [INFO] 
+2026-05-08 13:49:44,371 [INFO] [2/26] Processando SKU: 29531-0
+2026-05-08 13:49:44,371 [INFO] ================================================================================
+2026-05-08 13:49:44,371 [INFO] Buscando SKU: 29531-0
+2026-05-08 13:49:45,284 [INFO] Produto encontrado | SKU: 29531-0 | Tipo: configurable | ID: 69fde6878fb0e33152ac5a1b
+2026-05-08 13:49:45,285 [INFO] Enviando produto | SKU: 29531-0 | Tipo: configurable | Product ID: 69fde6878fb0e33152ac5a1b
+2026-05-08 13:49:46,602 [INFO] Envio realizado com sucesso | SKU: 29531-0
+2026-05-08 13:49:46,604 [INFO] Produto configurable detectado: 29531-0
+2026-05-08 13:49:46,604 [INFO] Iniciando envio dos filhos
+2026-05-08 13:49:46,604 [INFO] Processando 1 variações
+2026-05-08 13:49:46,604 [INFO] Enviando produto | SKU: 59193 | Tipo: child | Product ID: 69fde687374ce96be9f89101
+2026-05-08 13:49:47,549 [INFO] Envio realizado com sucesso | SKU: 59193
+2026-05-08 13:49:55,555 [INFO] 
+2026-05-08 13:49:55,556 [INFO] [3/26] Processando SKU: 29900
+2026-05-08 13:49:55,556 [INFO] ================================================================================
+2026-05-08 13:49:55,556 [INFO] Buscando SKU: 29900
+2026-05-08 13:49:56,454 [INFO] Produto encontrado | SKU: 29900 | Tipo: configurable | ID: 69fde68eb4c0f7df6832d9e6
+2026-05-08 13:49:56,455 [INFO] Enviando produto | SKU: 29900 | Tipo: configurable | Product ID: 69fde68eb4c0f7df6832d9e6
+2026-05-08 13:49:57,446 [INFO] Envio realizado com sucesso | SKU: 29900
+2026-05-08 13:49:57,447 [INFO] Produto configurable detectado: 29900
+2026-05-08 13:49:57,447 [INFO] Iniciando envio dos filhos
+2026-05-08 13:49:57,447 [INFO] Processando 1 variações
+2026-05-08 13:49:57,447 [INFO] Enviando produto | SKU: 55887 | Tipo: child | Product ID: 69fde68fdcb154c1e354b4b4
+2026-05-08 13:49:58,571 [INFO] Envio realizado com sucesso | SKU: 55887
+2026-05-08 13:50:06,580 [INFO] 
+2026-05-08 13:50:06,581 [INFO] [4/26] Processando SKU: 29933-3
+2026-05-08 13:50:06,581 [INFO] ================================================================================
+2026-05-08 13:50:06,581 [INFO] Buscando SKU: 29933-3
+2026-05-08 13:50:07,468 [INFO] Produto encontrado | SKU: 29933-3 | Tipo: configurable | ID: 69fde692c087402d70f56ddc
+2026-05-08 13:50:07,470 [INFO] Enviando produto | SKU: 29933-3 | Tipo: configurable | Product ID: 69fde692c087402d70f56ddc
+2026-05-08 13:50:08,347 [INFO] Envio realizado com sucesso | SKU: 29933-3
+2026-05-08 13:50:08,349 [INFO] Produto configurable detectado: 29933-3
+2026-05-08 13:50:08,350 [INFO] Iniciando envio dos filhos
+2026-05-08 13:50:08,350 [INFO] Processando 1 variações
+2026-05-08 13:50:08,350 [INFO] Enviando produto | SKU: 75726 | Tipo: child | Product ID: 69fde6931e7edc2e31f2eaca
+2026-05-08 13:50:09,255 [INFO] Envio realizado com sucesso | SKU: 75726
+2026-05-08 13:50:17,257 [INFO] 
+2026-05-08 13:50:17,258 [INFO] [5/26] Processando SKU: 29933-9
+2026-05-08 13:50:17,258 [INFO] ================================================================================
+2026-05-08 13:50:17,258 [INFO] Buscando SKU: 29933-9
+2026-05-08 13:50:18,190 [INFO] Produto encontrado | SKU: 29933-9 | Tipo: configurable | ID: 69fde6908fb0e33152ac6a9a
+2026-05-08 13:50:18,192 [INFO] Enviando produto | SKU: 29933-9 | Tipo: configurable | Product ID: 69fde6908fb0e33152ac6a9a
+2026-05-08 13:50:19,126 [INFO] Envio realizado com sucesso | SKU: 29933-9
+2026-05-08 13:50:19,128 [INFO] Produto configurable detectado: 29933-9
+2026-05-08 13:50:19,128 [INFO] Iniciando envio dos filhos
+2026-05-08 13:50:19,128 [INFO] Processando 1 variações
+2026-05-08 13:50:19,129 [INFO] Enviando produto | SKU: 75725 | Tipo: child | Product ID: 69fde6915b288de070da57cb
+2026-05-08 13:50:20,490 [INFO] Envio realizado com sucesso | SKU: 75725
+2026-05-08 13:50:28,493 [INFO] 
+2026-05-08 13:50:28,494 [INFO] [6/26] Processando SKU: 29959-0
+2026-05-08 13:50:28,494 [INFO] ================================================================================
+2026-05-08 13:50:28,494 [INFO] Buscando SKU: 29959-0
+2026-05-08 13:50:29,411 [INFO] Produto encontrado | SKU: 29959-0 | Tipo: configurable | ID: 69fde68937e48995b28cc178
+2026-05-08 13:50:29,413 [INFO] Enviando produto | SKU: 29959-0 | Tipo: configurable | Product ID: 69fde68937e48995b28cc178
+2026-05-08 13:50:30,342 [INFO] Envio realizado com sucesso | SKU: 29959-0
+2026-05-08 13:50:30,343 [INFO] Produto configurable detectado: 29959-0
+2026-05-08 13:50:30,343 [INFO] Iniciando envio dos filhos
+2026-05-08 13:50:30,343 [INFO] Processando 1 variações
+2026-05-08 13:50:30,343 [INFO] Enviando produto | SKU: 66184 | Tipo: child | Product ID: 69fde689dcb154c1e354ab3b
+2026-05-08 13:50:31,234 [INFO] Envio realizado com sucesso | SKU: 66184
+2026-05-08 13:50:39,239 [INFO] 
+2026-05-08 13:50:39,240 [INFO] [7/26] Processando SKU: 29931-0
+2026-05-08 13:50:39,240 [INFO] ================================================================================
+2026-05-08 13:50:39,240 [INFO] Buscando SKU: 29931-0
+2026-05-08 13:50:40,247 [INFO] Produto encontrado | SKU: 29931-0 | Tipo: configurable | ID: 69fde68cdcb154c1e354afba
+2026-05-08 13:50:40,249 [INFO] Enviando produto | SKU: 29931-0 | Tipo: configurable | Product ID: 69fde68cdcb154c1e354afba
+2026-05-08 13:50:41,274 [INFO] Envio realizado com sucesso | SKU: 29931-0
+2026-05-08 13:50:41,275 [INFO] Produto configurable detectado: 29931-0
+2026-05-08 13:50:41,275 [INFO] Iniciando envio dos filhos
+2026-05-08 13:50:41,275 [INFO] Processando 1 variações
+2026-05-08 13:50:41,276 [INFO] Enviando produto | SKU: 52086 | Tipo: child | Product ID: 69fde68cc087402d70f562c3
+2026-05-08 13:50:42,196 [INFO] Envio realizado com sucesso | SKU: 52086
+2026-05-08 13:50:50,205 [INFO] 
+2026-05-08 13:50:50,207 [INFO] [8/26] Processando SKU: 29970-0
+2026-05-08 13:50:50,207 [INFO] ================================================================================
+2026-05-08 13:50:50,207 [INFO] Buscando SKU: 29970-0
+2026-05-08 13:50:51,306 [INFO] Produto encontrado | SKU: 29970-0 | Tipo: configurable | ID: 69fde8e0abb4183d04abe0ab
+2026-05-08 13:50:51,306 [INFO] Enviando produto | SKU: 29970-0 | Tipo: configurable | Product ID: 69fde8e0abb4183d04abe0ab
+2026-05-08 13:50:52,270 [INFO] Envio realizado com sucesso | SKU: 29970-0
+2026-05-08 13:50:52,272 [INFO] Produto configurable detectado: 29970-0
+2026-05-08 13:50:52,273 [INFO] Iniciando envio dos filhos
+2026-05-08 13:50:52,273 [INFO] Processando 8 variações
+2026-05-08 13:50:52,273 [INFO] Enviando produto | SKU: 66154 | Tipo: child | Product ID: 69fde8e137e48995b290b72b
+2026-05-08 13:50:53,421 [INFO] Envio realizado com sucesso | SKU: 66154
+2026-05-08 13:50:57,435 [INFO] Enviando produto | SKU: 66155 | Tipo: child | Product ID: 69fde8e35b288de070de332b
+2026-05-08 13:50:58,358 [INFO] Envio realizado com sucesso | SKU: 66155
+2026-05-08 13:51:02,362 [INFO] Enviando produto | SKU: 66156 | Tipo: child | Product ID: 69fde8e537e48995b290be41
+2026-05-08 13:51:03,270 [INFO] Envio realizado com sucesso | SKU: 66156
+2026-05-08 13:51:07,272 [INFO] Enviando produto | SKU: 66157 | Tipo: child | Product ID: 69fde8e88fb0e33152b05938
+2026-05-08 13:51:08,237 [INFO] Envio realizado com sucesso | SKU: 66157
+2026-05-08 13:51:12,244 [INFO] Enviando produto | SKU: 66158 | Tipo: child | Product ID: 69fde8eb37e48995b290c769
+2026-05-08 13:51:13,347 [INFO] Envio realizado com sucesso | SKU: 66158
+2026-05-08 13:51:17,353 [INFO] Enviando produto | SKU: 66159 | Tipo: child | Product ID: 69fde8ee374ce96be9fc9685
+2026-05-08 13:51:18,501 [INFO] Envio realizado com sucesso | SKU: 66159
+2026-05-08 13:51:22,508 [INFO] Enviando produto | SKU: 66160 | Tipo: child | Product ID: 69fde8f037e48995b290ceea
+2026-05-08 13:51:23,424 [INFO] Envio realizado com sucesso | SKU: 66160
+2026-05-08 13:51:27,430 [INFO] Enviando produto | SKU: 66161 | Tipo: child | Product ID: 69fde8f283bc70bbd0a9ba0d
+2026-05-08 13:51:28,350 [INFO] Envio realizado com sucesso | SKU: 66161
+2026-05-08 13:51:36,358 [INFO] 
+2026-05-08 13:51:36,358 [INFO] [9/26] Processando SKU: 70435-3
+2026-05-08 13:51:36,359 [INFO] ================================================================================
+2026-05-08 13:51:36,359 [INFO] Buscando SKU: 70435-3
+2026-05-08 13:51:37,235 [INFO] Produto encontrado | SKU: 70435-3 | Tipo: configurable | ID: 69fde8f4c087402d70f96630
+2026-05-08 13:51:37,237 [INFO] Enviando produto | SKU: 70435-3 | Tipo: configurable | Product ID: 69fde8f4c087402d70f96630
+2026-05-08 13:51:38,135 [INFO] Envio realizado com sucesso | SKU: 70435-3
+2026-05-08 13:51:38,137 [INFO] Produto configurable detectado: 70435-3
+2026-05-08 13:51:38,137 [INFO] Iniciando envio dos filhos
+2026-05-08 13:51:38,137 [INFO] Processando 2 variações
+2026-05-08 13:51:38,137 [INFO] Enviando produto | SKU: 81819 | Tipo: child | Product ID: 69fde8f58fb0e33152b06f2c
+2026-05-08 13:51:39,083 [INFO] Envio realizado com sucesso | SKU: 81819
+2026-05-08 13:51:43,089 [INFO] Enviando produto | SKU: 101093 | Tipo: child | Product ID: 69fde8fa374ce96be9fcac59
+2026-05-08 13:51:44,022 [INFO] Envio realizado com sucesso | SKU: 101093
+2026-05-08 13:51:52,028 [INFO] 
+2026-05-08 13:51:52,029 [INFO] [10/26] Processando SKU: 70435-9
+2026-05-08 13:51:52,029 [INFO] ================================================================================
+2026-05-08 13:51:52,029 [INFO] Buscando SKU: 70435-9
+2026-05-08 13:51:52,876 [INFO] Produto encontrado | SKU: 70435-9 | Tipo: configurable | ID: 69fde8f7b4c0f7df6836e22b
+2026-05-08 13:51:52,877 [INFO] Enviando produto | SKU: 70435-9 | Tipo: configurable | Product ID: 69fde8f7b4c0f7df6836e22b
+2026-05-08 13:51:53,834 [INFO] Envio realizado com sucesso | SKU: 70435-9
+2026-05-08 13:51:53,836 [INFO] Produto configurable detectado: 70435-9
+2026-05-08 13:51:53,836 [INFO] Iniciando envio dos filhos
+2026-05-08 13:51:53,836 [INFO] Processando 1 variações
+2026-05-08 13:51:53,836 [INFO] Enviando produto | SKU: 100918 | Tipo: child | Product ID: 69fde8f85b288de070de547f
+2026-05-08 13:51:54,886 [INFO] Envio realizado com sucesso | SKU: 100918
+2026-05-08 13:52:02,897 [INFO] 
+2026-05-08 13:52:02,897 [INFO] [11/26] Processando SKU: 70436-3
+2026-05-08 13:52:02,897 [INFO] ================================================================================
+2026-05-08 13:52:02,898 [INFO] Buscando SKU: 70436-3
+2026-05-08 13:52:03,813 [INFO] Produto encontrado | SKU: 70436-3 | Tipo: configurable | ID: 69fde900dcb154c1e358cdb6
+2026-05-08 13:52:03,815 [INFO] Enviando produto | SKU: 70436-3 | Tipo: configurable | Product ID: 69fde900dcb154c1e358cdb6
+2026-05-08 13:52:04,797 [INFO] Envio realizado com sucesso | SKU: 70436-3
+2026-05-08 13:52:04,799 [INFO] Produto configurable detectado: 70436-3
+2026-05-08 13:52:04,799 [INFO] Iniciando envio dos filhos
+2026-05-08 13:52:04,799 [INFO] Processando 2 variações
+2026-05-08 13:52:04,799 [INFO] Enviando produto | SKU: 81932 | Tipo: child | Product ID: 69fde90083bc70bbd0a9d141
+2026-05-08 13:52:05,692 [INFO] Envio realizado com sucesso | SKU: 81932
+2026-05-08 13:52:09,697 [INFO] Enviando produto | SKU: 101091 | Tipo: child | Product ID: 69fde902b4c0f7df6836f574
+2026-05-08 13:52:10,703 [INFO] Envio realizado com sucesso | SKU: 101091
+2026-05-08 13:52:18,714 [INFO] 
+2026-05-08 13:52:18,717 [INFO] [12/26] Processando SKU: 70436-9
+2026-05-08 13:52:18,717 [INFO] ================================================================================
+2026-05-08 13:52:18,717 [INFO] Buscando SKU: 70436-9
+2026-05-08 13:52:19,810 [INFO] Produto encontrado | SKU: 70436-9 | Tipo: configurable | ID: 69fde8fd5b288de070de5f73
+2026-05-08 13:52:19,811 [INFO] Enviando produto | SKU: 70436-9 | Tipo: configurable | Product ID: 69fde8fd5b288de070de5f73
+2026-05-08 13:52:20,714 [INFO] Envio realizado com sucesso | SKU: 70436-9
+2026-05-08 13:52:20,717 [INFO] Produto configurable detectado: 70436-9
+2026-05-08 13:52:20,717 [INFO] Iniciando envio dos filhos
+2026-05-08 13:52:20,717 [INFO] Processando 2 variações
+2026-05-08 13:52:20,718 [INFO] Enviando produto | SKU: 81931 | Tipo: child | Product ID: 69fde8fedcb154c1e358ca28
+2026-05-08 13:52:21,662 [INFO] Envio realizado com sucesso | SKU: 81931
+2026-05-08 13:52:25,668 [INFO] Enviando produto | SKU: 101092 | Tipo: child | Product ID: 69fde9055b288de070de6e8f
+2026-05-08 13:52:26,983 [INFO] Envio realizado com sucesso | SKU: 101092
+2026-05-08 13:52:34,991 [INFO] 
+2026-05-08 13:52:34,991 [INFO] [13/26] Processando SKU: E0229-181
+2026-05-08 13:52:34,991 [INFO] ================================================================================
+2026-05-08 13:52:34,991 [INFO] Buscando SKU: E0229-181
+2026-05-08 13:52:36,092 [INFO] Produto encontrado | SKU: E0229-181 | Tipo: configurable | ID: 69fdeb27abb4183d04af8dd1
+2026-05-08 13:52:36,093 [INFO] Enviando produto | SKU: E0229-181 | Tipo: configurable | Product ID: 69fdeb27abb4183d04af8dd1
+2026-05-08 13:52:36,951 [INFO] Envio realizado com sucesso | SKU: E0229-181
+2026-05-08 13:52:36,953 [INFO] Produto configurable detectado: E0229-181
+2026-05-08 13:52:36,953 [INFO] Iniciando envio dos filhos
+2026-05-08 13:52:36,953 [INFO] Processando 5 variações
+2026-05-08 13:52:36,953 [INFO] Enviando produto | SKU: 117053 | Tipo: child | Product ID: 69fdeb271e7edc2e31fa7bfa
+2026-05-08 13:52:38,080 [INFO] Envio realizado com sucesso | SKU: 117053
+2026-05-08 13:52:42,085 [INFO] Enviando produto | SKU: 117054 | Tipo: child | Product ID: 69fdeb2a83bc70bbd0ad4ce4
+2026-05-08 13:52:43,215 [INFO] Envio realizado com sucesso | SKU: 117054
+2026-05-08 13:52:47,222 [INFO] Enviando produto | SKU: 117055 | Tipo: child | Product ID: 69fdeb2c37e48995b2947156
+2026-05-08 13:52:48,158 [INFO] Envio realizado com sucesso | SKU: 117055
+2026-05-08 13:52:52,160 [INFO] Enviando produto | SKU: 117056 | Tipo: child | Product ID: 69fdeb2f374ce96be90043e4
+2026-05-08 13:52:53,070 [INFO] Envio realizado com sucesso | SKU: 117056
+2026-05-08 13:52:57,076 [INFO] Enviando produto | SKU: 117057 | Tipo: child | Product ID: 69fdeb31dcb154c1e35c595f
+2026-05-08 13:52:57,956 [INFO] Envio realizado com sucesso | SKU: 117057
+2026-05-08 13:53:05,962 [INFO] 
+2026-05-08 13:53:05,963 [INFO] [14/26] Processando SKU: E5006-9
+2026-05-08 13:53:05,964 [INFO] ================================================================================
+2026-05-08 13:53:05,964 [INFO] Buscando SKU: E5006-9
+2026-05-08 13:53:06,859 [INFO] Produto encontrado | SKU: E5006-9 | Tipo: configurable | ID: 69fdeb3337e48995b2947c10
+2026-05-08 13:53:06,860 [INFO] Enviando produto | SKU: E5006-9 | Tipo: configurable | Product ID: 69fdeb3337e48995b2947c10
+2026-05-08 13:53:07,730 [INFO] Envio realizado com sucesso | SKU: E5006-9
+2026-05-08 13:53:07,731 [INFO] Produto configurable detectado: E5006-9
+2026-05-08 13:53:07,732 [INFO] Iniciando envio dos filhos
+2026-05-08 13:53:07,732 [INFO] Processando 1 variações
+2026-05-08 13:53:07,732 [INFO] Enviando produto | SKU: 117058 | Tipo: child | Product ID: 69fdeb331e7edc2e31fa8ecf
+2026-05-08 13:53:08,643 [INFO] Envio realizado com sucesso | SKU: 117058
+2026-05-08 13:53:16,654 [INFO] 
+2026-05-08 13:53:16,655 [INFO] [15/26] Processando SKU: E5007-12
+2026-05-08 13:53:16,655 [INFO] ================================================================================
+2026-05-08 13:53:16,655 [INFO] Buscando SKU: E5007-12
+2026-05-08 13:53:17,536 [INFO] Produto encontrado | SKU: E5007-12 | Tipo: configurable | ID: 69fdeb3537e48995b2947f2b
+2026-05-08 13:53:17,538 [INFO] Enviando produto | SKU: E5007-12 | Tipo: configurable | Product ID: 69fdeb3537e48995b2947f2b
+2026-05-08 13:53:18,634 [INFO] Envio realizado com sucesso | SKU: E5007-12
+2026-05-08 13:53:18,636 [INFO] Produto configurable detectado: E5007-12
+2026-05-08 13:53:18,636 [INFO] Iniciando envio dos filhos
+2026-05-08 13:53:18,636 [INFO] Processando 1 variações
+2026-05-08 13:53:18,636 [INFO] Enviando produto | SKU: 117059 | Tipo: child | Product ID: 69fdeb3683bc70bbd0ad60c3
+2026-05-08 13:53:19,591 [INFO] Envio realizado com sucesso | SKU: 117059
+2026-05-08 13:53:27,598 [INFO] 
+2026-05-08 13:53:27,599 [INFO] [16/26] Processando SKU: E5012-9
+2026-05-08 13:53:27,599 [INFO] ================================================================================
+2026-05-08 13:53:27,599 [INFO] Buscando SKU: E5012-9
+2026-05-08 13:53:28,648 [INFO] Produto encontrado | SKU: E5012-9 | Tipo: configurable | ID: 69fdeb3883bc70bbd0ad63a1
+2026-05-08 13:53:28,649 [INFO] Enviando produto | SKU: E5012-9 | Tipo: configurable | Product ID: 69fdeb3883bc70bbd0ad63a1
+2026-05-08 13:53:29,584 [INFO] Envio realizado com sucesso | SKU: E5012-9
+2026-05-08 13:53:29,585 [INFO] Produto configurable detectado: E5012-9
+2026-05-08 13:53:29,585 [INFO] Iniciando envio dos filhos
+2026-05-08 13:53:29,585 [INFO] Processando 1 variações
+2026-05-08 13:53:29,585 [INFO] Enviando produto | SKU: 117060 | Tipo: child | Product ID: 69fdeb38abb4183d04afa9da
+2026-05-08 13:53:30,570 [INFO] Envio realizado com sucesso | SKU: 117060
+2026-05-08 13:53:38,579 [INFO] 
+2026-05-08 13:53:38,579 [INFO] [17/26] Processando SKU: W0072-0
+2026-05-08 13:53:38,580 [INFO] ================================================================================
+2026-05-08 13:53:38,580 [INFO] Buscando SKU: W0072-0
+2026-05-08 13:53:39,452 [INFO] Produto encontrado | SKU: W0072-0 | Tipo: configurable | ID: 69fdeb3a5b288de070e1fd52
+2026-05-08 13:53:39,454 [INFO] Enviando produto | SKU: W0072-0 | Tipo: configurable | Product ID: 69fdeb3a5b288de070e1fd52
+2026-05-08 13:53:40,499 [INFO] Envio realizado com sucesso | SKU: W0072-0
+2026-05-08 13:53:40,500 [INFO] Produto configurable detectado: W0072-0
+2026-05-08 13:53:40,501 [INFO] Iniciando envio dos filhos
+2026-05-08 13:53:40,501 [INFO] Processando 1 variações
+2026-05-08 13:53:40,501 [INFO] Enviando produto | SKU: 73369 | Tipo: child | Product ID: 69fdeb3bdcb154c1e35c68c9
+2026-05-08 13:53:41,381 [INFO] Envio realizado com sucesso | SKU: 73369
+2026-05-08 13:53:49,388 [INFO] 
+2026-05-08 13:53:49,390 [INFO] [18/26] Processando SKU: W0460-9
+2026-05-08 13:53:49,390 [INFO] ================================================================================
+2026-05-08 13:53:49,390 [INFO] Buscando SKU: W0460-9
+2026-05-08 13:53:50,276 [INFO] Produto encontrado | SKU: W0460-9 | Tipo: configurable | ID: 69fdeb43374ce96be9006534
+2026-05-08 13:53:50,278 [INFO] Enviando produto | SKU: W0460-9 | Tipo: configurable | Product ID: 69fdeb43374ce96be9006534
+2026-05-08 13:53:51,165 [INFO] Envio realizado com sucesso | SKU: W0460-9
+2026-05-08 13:53:51,167 [INFO] Produto configurable detectado: W0460-9
+2026-05-08 13:53:51,167 [INFO] Iniciando envio dos filhos
+2026-05-08 13:53:51,167 [INFO] Processando 1 variações
+2026-05-08 13:53:51,167 [INFO] Enviando produto | SKU: 80895 | Tipo: child | Product ID: 69fdeb43dcb154c1e35c76d3
+2026-05-08 13:53:52,048 [INFO] Envio realizado com sucesso | SKU: 80895
+2026-05-08 13:54:00,060 [INFO] 
+2026-05-08 13:54:00,062 [INFO] [19/26] Processando SKU: W0462-9
+2026-05-08 13:54:00,062 [INFO] ================================================================================
+2026-05-08 13:54:00,062 [INFO] Buscando SKU: W0462-9
+2026-05-08 13:54:01,362 [INFO] Produto encontrado | SKU: W0462-9 | Tipo: configurable | ID: 69fdeb4537e48995b2949af2
+2026-05-08 13:54:01,363 [INFO] Enviando produto | SKU: W0462-9 | Tipo: configurable | Product ID: 69fdeb4537e48995b2949af2
+2026-05-08 13:54:02,216 [INFO] Envio realizado com sucesso | SKU: W0462-9
+2026-05-08 13:54:02,217 [INFO] Produto configurable detectado: W0462-9
+2026-05-08 13:54:02,218 [INFO] Iniciando envio dos filhos
+2026-05-08 13:54:02,218 [INFO] Processando 1 variações
+2026-05-08 13:54:02,218 [INFO] Enviando produto | SKU: 80893 | Tipo: child | Product ID: 69fdeb45dcb154c1e35c7b19
+2026-05-08 13:54:03,147 [INFO] Envio realizado com sucesso | SKU: 80893
+2026-05-08 13:54:11,159 [INFO] 
+2026-05-08 13:54:11,160 [INFO] [20/26] Processando SKU: W0455-9
+2026-05-08 13:54:11,161 [INFO] ================================================================================
+2026-05-08 13:54:11,161 [INFO] Buscando SKU: W0455-9
+2026-05-08 13:54:12,040 [INFO] Produto encontrado | SKU: W0455-9 | Tipo: configurable | ID: 69fdeb4783bc70bbd0ad7c70
+2026-05-08 13:54:12,042 [INFO] Enviando produto | SKU: W0455-9 | Tipo: configurable | Product ID: 69fdeb4783bc70bbd0ad7c70
+2026-05-08 13:54:13,002 [INFO] Envio realizado com sucesso | SKU: W0455-9
+2026-05-08 13:54:13,002 [INFO] Produto configurable detectado: W0455-9
+2026-05-08 13:54:13,002 [INFO] Iniciando envio dos filhos
+2026-05-08 13:54:13,002 [INFO] Processando 1 variações
+2026-05-08 13:54:13,002 [INFO] Enviando produto | SKU: 80900 | Tipo: child | Product ID: 69fdeb48dcb154c1e35c7e49
+2026-05-08 13:54:13,898 [INFO] Envio realizado com sucesso | SKU: 80900
+2026-05-08 13:54:21,908 [INFO] 
+2026-05-08 13:54:21,910 [INFO] [21/26] Processando SKU: W0456-9
+2026-05-08 13:54:21,910 [INFO] ================================================================================
+2026-05-08 13:54:21,911 [INFO] Buscando SKU: W0456-9
+2026-05-08 13:54:22,869 [INFO] Produto encontrado | SKU: W0456-9 | Tipo: configurable | ID: 69fdeb4ac087402d70fd2a1d
+2026-05-08 13:54:22,870 [INFO] Enviando produto | SKU: W0456-9 | Tipo: configurable | Product ID: 69fdeb4ac087402d70fd2a1d
+2026-05-08 13:54:23,913 [INFO] Envio realizado com sucesso | SKU: W0456-9
+2026-05-08 13:54:23,914 [INFO] Produto configurable detectado: W0456-9
+2026-05-08 13:54:23,915 [INFO] Iniciando envio dos filhos
+2026-05-08 13:54:23,915 [INFO] Processando 1 variações
+2026-05-08 13:54:23,915 [INFO] Enviando produto | SKU: 80899 | Tipo: child | Product ID: 69fdeb4ab4c0f7df683aa7e6
+2026-05-08 13:54:24,796 [INFO] Envio realizado com sucesso | SKU: 80899
+2026-05-08 13:54:32,802 [INFO] 
+2026-05-08 13:54:32,803 [INFO] [22/26] Processando SKU: E0207-495
+2026-05-08 13:54:32,803 [INFO] ================================================================================
+2026-05-08 13:54:32,803 [INFO] Buscando SKU: E0207-495
+2026-05-08 13:54:33,690 [INFO] Produto encontrado | SKU: E0207-495 | Tipo: configurable | ID: 69fdeb4c5b288de070e21a2d
+2026-05-08 13:54:33,692 [INFO] Enviando produto | SKU: E0207-495 | Tipo: configurable | Product ID: 69fdeb4c5b288de070e21a2d
+2026-05-08 13:54:34,719 [INFO] Envio realizado com sucesso | SKU: E0207-495
+2026-05-08 13:54:34,720 [INFO] Produto configurable detectado: E0207-495
+2026-05-08 13:54:34,721 [INFO] Iniciando envio dos filhos
+2026-05-08 13:54:34,721 [INFO] Processando 8 variações
+2026-05-08 13:54:34,721 [INFO] Enviando produto | SKU: 114782 | Tipo: child | Product ID: 69fdeb4c37e48995b294a6a2
+2026-05-08 13:54:35,744 [INFO] Envio realizado com sucesso | SKU: 114782
+2026-05-08 13:54:39,747 [INFO] Enviando produto | SKU: 114783 | Tipo: child | Product ID: 69fded765b288de070e591e3
+2026-05-08 13:54:40,667 [INFO] Envio realizado com sucesso | SKU: 114783
+2026-05-08 13:54:44,673 [INFO] Enviando produto | SKU: 114785 | Tipo: child | Product ID: 69fded7a8fb0e33152b7c501
+2026-05-08 13:54:45,554 [INFO] Envio realizado com sucesso | SKU: 114785
+2026-05-08 13:54:49,559 [INFO] Enviando produto | SKU: 114784 | Tipo: child | Product ID: 69fded7c8fb0e33152b7c7eb
+2026-05-08 13:54:50,858 [INFO] Envio realizado com sucesso | SKU: 114784
+2026-05-08 13:54:54,865 [INFO] Enviando produto | SKU: 114786 | Tipo: child | Product ID: 69fded7eabb4183d04b35600
+2026-05-08 13:54:55,868 [INFO] Envio realizado com sucesso | SKU: 114786
+2026-05-08 13:54:59,874 [INFO] Enviando produto | SKU: 114787 | Tipo: child | Product ID: 69fded818fb0e33152b7cf39
+2026-05-08 13:55:00,798 [INFO] Envio realizado com sucesso | SKU: 114787
+2026-05-08 13:55:04,801 [INFO] Enviando produto | SKU: 114788 | Tipo: child | Product ID: 69fded83abb4183d04b35c71
+2026-05-08 13:55:05,690 [INFO] Envio realizado com sucesso | SKU: 114788
+2026-05-08 13:55:09,693 [INFO] Enviando produto | SKU: 114789 | Tipo: child | Product ID: 69fded84374ce96be903fffa
+2026-05-08 13:55:10,682 [INFO] Envio realizado com sucesso | SKU: 114789
+2026-05-08 13:55:18,692 [INFO] 
+2026-05-08 13:55:18,693 [INFO] [23/26] Processando SKU: E0209-9
+2026-05-08 13:55:18,693 [INFO] ================================================================================
+2026-05-08 13:55:18,693 [INFO] Buscando SKU: E0209-9
+2026-05-08 13:55:19,996 [INFO] Produto encontrado | SKU: E0209-9 | Tipo: configurable | ID: 69fdefd2c087402d70047827
+2026-05-08 13:55:19,998 [INFO] Enviando produto | SKU: E0209-9 | Tipo: configurable | Product ID: 69fdefd2c087402d70047827
+2026-05-08 13:55:21,259 [INFO] Envio realizado com sucesso | SKU: E0209-9
+2026-05-08 13:55:21,260 [INFO] Produto configurable detectado: E0209-9
+2026-05-08 13:55:21,260 [INFO] Iniciando envio dos filhos
+2026-05-08 13:55:21,260 [INFO] Processando 8 variações
+2026-05-08 13:55:21,260 [INFO] Enviando produto | SKU: 114791 | Tipo: child | Product ID: 69fdefd35b288de070e95d4d
+2026-05-08 13:55:22,227 [INFO] Envio realizado com sucesso | SKU: 114791
+2026-05-08 13:55:26,232 [INFO] Enviando produto | SKU: 114790 | Tipo: child | Product ID: 69fdefd537e48995b29befaa
+2026-05-08 13:55:27,332 [INFO] Envio realizado com sucesso | SKU: 114790
+2026-05-08 13:55:31,338 [INFO] Enviando produto | SKU: 114792 | Tipo: child | Product ID: 69fdefd7c087402d7004807d
+2026-05-08 13:55:32,406 [INFO] Envio realizado com sucesso | SKU: 114792
+2026-05-08 13:55:36,414 [INFO] Enviando produto | SKU: 114793 | Tipo: child | Product ID: 69fdefd91e7edc2e3101ff6a
+2026-05-08 13:55:37,460 [INFO] Envio realizado com sucesso | SKU: 114793
+2026-05-08 13:55:41,468 [INFO] Enviando produto | SKU: 114794 | Tipo: child | Product ID: 69fdefdb1e7edc2e31020261
+2026-05-08 13:55:42,564 [INFO] Envio realizado com sucesso | SKU: 114794
+2026-05-08 13:55:46,568 [INFO] Enviando produto | SKU: 114795 | Tipo: child | Product ID: 69fdefddc087402d7004897a
+2026-05-08 13:55:47,587 [INFO] Envio realizado com sucesso | SKU: 114795
+2026-05-08 13:55:51,595 [INFO] Enviando produto | SKU: 114796 | Tipo: child | Product ID: 69fdefdfabb4183d04b72494
+2026-05-08 13:55:52,647 [INFO] Envio realizado com sucesso | SKU: 114796
+2026-05-08 13:55:56,653 [INFO] Enviando produto | SKU: 114797 | Tipo: child | Product ID: 69fdefe18fb0e33152bba6e1
+2026-05-08 13:55:57,564 [INFO] Envio realizado com sucesso | SKU: 114797
+2026-05-08 13:56:05,575 [INFO] 
+2026-05-08 13:56:05,576 [INFO] [24/26] Processando SKU: E5006-9
+2026-05-08 13:56:05,576 [INFO] ================================================================================
+2026-05-08 13:56:05,576 [INFO] Buscando SKU: E5006-9
+2026-05-08 13:56:06,552 [INFO] Produto encontrado | SKU: E5006-9 | Tipo: configurable | ID: 69fdeb3337e48995b2947c10
+2026-05-08 13:56:06,554 [INFO] Enviando produto | SKU: E5006-9 | Tipo: configurable | Product ID: 69fdeb3337e48995b2947c10
+2026-05-08 13:56:07,820 [INFO] Envio realizado com sucesso | SKU: E5006-9
+2026-05-08 13:56:07,822 [INFO] Produto configurable detectado: E5006-9
+2026-05-08 13:56:07,822 [INFO] Iniciando envio dos filhos
+2026-05-08 13:56:07,823 [INFO] Processando 1 variações
+2026-05-08 13:56:07,823 [INFO] Enviando produto | SKU: 117058 | Tipo: child | Product ID: 69fdeb331e7edc2e31fa8ecf
+2026-05-08 13:56:08,887 [INFO] Envio realizado com sucesso | SKU: 117058
+2026-05-08 13:56:16,894 [INFO] 
+2026-05-08 13:56:16,896 [INFO] [25/26] Processando SKU: E5007-12
+2026-05-08 13:56:16,896 [INFO] ================================================================================
+2026-05-08 13:56:16,896 [INFO] Buscando SKU: E5007-12
+2026-05-08 13:56:17,848 [INFO] Produto encontrado | SKU: E5007-12 | Tipo: configurable | ID: 69fdeb3537e48995b2947f2b
+2026-05-08 13:56:17,850 [INFO] Enviando produto | SKU: E5007-12 | Tipo: configurable | Product ID: 69fdeb3537e48995b2947f2b
+2026-05-08 13:56:18,794 [INFO] Envio realizado com sucesso | SKU: E5007-12
+2026-05-08 13:56:18,795 [INFO] Produto configurable detectado: E5007-12
+2026-05-08 13:56:18,796 [INFO] Iniciando envio dos filhos
+2026-05-08 13:56:18,796 [INFO] Processando 1 variações
+2026-05-08 13:56:18,796 [INFO] Enviando produto | SKU: 117059 | Tipo: child | Product ID: 69fdeb3683bc70bbd0ad60c3
+2026-05-08 13:56:19,817 [INFO] Envio realizado com sucesso | SKU: 117059
+2026-05-08 13:56:27,825 [INFO] 
+2026-05-08 13:56:27,826 [INFO] [26/26] Processando SKU: E5012-9
+2026-05-08 13:56:27,826 [INFO] ================================================================================
+2026-05-08 13:56:27,826 [INFO] Buscando SKU: E5012-9
+2026-05-08 13:56:28,762 [INFO] Produto encontrado | SKU: E5012-9 | Tipo: configurable | ID: 69fdeb3883bc70bbd0ad63a1
+2026-05-08 13:56:28,764 [INFO] Enviando produto | SKU: E5012-9 | Tipo: configurable | Product ID: 69fdeb3883bc70bbd0ad63a1
+2026-05-08 13:56:29,873 [INFO] Envio realizado com sucesso | SKU: E5012-9
+2026-05-08 13:56:29,875 [INFO] Produto configurable detectado: E5012-9
+2026-05-08 13:56:29,875 [INFO] Iniciando envio dos filhos
+2026-05-08 13:56:29,875 [INFO] Processando 1 variações
+2026-05-08 13:56:29,875 [INFO] Enviando produto | SKU: 117060 | Tipo: child | Product ID: 69fdeb38abb4183d04afa9da
+2026-05-08 13:56:31,215 [INFO] Envio realizado com sucesso | SKU: 117060
+2026-05-08 13:56:39,224 [INFO] 
+2026-05-08 13:56:39,225 [INFO] ################################################################################
+2026-05-08 13:56:39,225 [INFO] PROCESSAMENTO FINALIZADO
+2026-05-08 13:56:39,225 [INFO] ################################################################################

@@ -1,0 +1,734 @@
+2026-05-06 14:46:16,495 [INFO] [GET] SKU: 114235
+2026-05-06 14:46:17,756 [INFO] SKU 114235 -> product_id: 69fb430115de233e1b08d244
+2026-05-06 14:46:17,759 [INFO] [PUT] Resend product_id: 69fb430115de233e1b08d244
+2026-05-06 14:46:19,086 [INFO] Resend sucesso: 69fb430115de233e1b08d244
+2026-05-06 14:46:19,591 [INFO] [GET] SKU: Q0129
+2026-05-06 14:46:20,749 [INFO] SKU Q0129 -> product_id: 69fb55bfdcb154c1e35d55a8
+2026-05-06 14:46:20,750 [INFO] [PUT] Resend product_id: 69fb55bfdcb154c1e35d55a8
+2026-05-06 14:46:21,676 [INFO] Resend sucesso: 69fb55bfdcb154c1e35d55a8
+2026-05-06 14:46:22,183 [INFO] [GET] SKU: 114228
+2026-05-06 14:46:23,136 [INFO] SKU 114228 -> product_id: 69fb55d2374ce96be9006e7f
+2026-05-06 14:46:23,138 [INFO] [PUT] Resend product_id: 69fb55d2374ce96be9006e7f
+2026-05-06 14:46:24,197 [INFO] Resend sucesso: 69fb55d2374ce96be9006e7f
+2026-05-06 14:46:24,701 [INFO] [GET] SKU: 114227
+2026-05-06 14:46:25,769 [INFO] SKU 114227 -> product_id: 69fb55d08fb0e33152b468f3
+2026-05-06 14:46:25,771 [INFO] [PUT] Resend product_id: 69fb55d08fb0e33152b468f3
+2026-05-06 14:46:26,798 [INFO] Resend sucesso: 69fb55d08fb0e33152b468f3
+2026-05-06 14:46:27,302 [INFO] [GET] SKU: 114226
+2026-05-06 14:46:28,286 [INFO] SKU 114226 -> product_id: 69fb55ce37e48995b295c2ea
+2026-05-06 14:46:28,287 [INFO] [PUT] Resend product_id: 69fb55ce37e48995b295c2ea
+2026-05-06 14:46:29,282 [INFO] Resend sucesso: 69fb55ce37e48995b295c2ea
+2026-05-06 14:46:29,787 [INFO] [GET] SKU: 114225
+2026-05-06 14:46:31,104 [INFO] SKU 114225 -> product_id: 69fb55cb83bc70bbd0addd47
+2026-05-06 14:46:31,106 [INFO] [PUT] Resend product_id: 69fb55cb83bc70bbd0addd47
+2026-05-06 14:46:32,053 [INFO] Resend sucesso: 69fb55cb83bc70bbd0addd47
+2026-05-06 14:46:32,556 [INFO] [GET] SKU: 114224
+2026-05-06 14:46:33,884 [INFO] SKU 114224 -> product_id: 69fb55c9374ce96be900623e
+2026-05-06 14:46:33,886 [INFO] [PUT] Resend product_id: 69fb55c9374ce96be900623e
+2026-05-06 14:46:34,863 [INFO] Resend sucesso: 69fb55c9374ce96be900623e
+2026-05-06 14:46:35,366 [INFO] [GET] SKU: 114223
+2026-05-06 14:46:36,457 [INFO] SKU 114223 -> product_id: 69fb55c7b4c0f7df683a706d
+2026-05-06 14:46:36,459 [INFO] [PUT] Resend product_id: 69fb55c7b4c0f7df683a706d
+2026-05-06 14:46:37,625 [INFO] Resend sucesso: 69fb55c7b4c0f7df683a706d
+2026-05-06 14:46:38,130 [INFO] [GET] SKU: 114222
+2026-05-06 14:46:39,141 [INFO] SKU 114222 -> product_id: 69fb55c31e7edc2e31fba1ed
+2026-05-06 14:46:39,143 [INFO] [PUT] Resend product_id: 69fb55c31e7edc2e31fba1ed
+2026-05-06 14:46:40,463 [INFO] Resend sucesso: 69fb55c31e7edc2e31fba1ed
+2026-05-06 14:46:40,967 [INFO] [GET] SKU: 114221
+2026-05-06 14:46:42,102 [INFO] SKU 114221 -> product_id: 69fb55c05b288de070e2d57c
+2026-05-06 14:46:42,104 [INFO] [PUT] Resend product_id: 69fb55c05b288de070e2d57c
+2026-05-06 14:46:43,363 [INFO] Resend sucesso: 69fb55c05b288de070e2d57c
+2026-05-06 14:46:43,869 [INFO] [GET] SKU: Q0014
+2026-05-06 14:46:44,835 [INFO] SKU Q0014 -> product_id: 69fb55b28fb0e33152b43aba
+2026-05-06 14:46:44,837 [INFO] [PUT] Resend product_id: 69fb55b28fb0e33152b43aba
+2026-05-06 14:46:45,786 [INFO] Resend sucesso: 69fb55b28fb0e33152b43aba
+2026-05-06 14:46:46,289 [INFO] [GET] SKU: 114184
+2026-05-06 14:46:47,223 [INFO] SKU 114184 -> product_id: 69fb55bd8fb0e33152b44e94
+2026-05-06 14:46:47,226 [INFO] [PUT] Resend product_id: 69fb55bd8fb0e33152b44e94
+2026-05-06 14:46:48,457 [INFO] Resend sucesso: 69fb55bd8fb0e33152b44e94
+2026-05-06 14:46:48,964 [INFO] [GET] SKU: 114183
+2026-05-06 14:46:49,913 [INFO] SKU 114183 -> product_id: 69fb55bb374ce96be9004b22
+2026-05-06 14:46:49,915 [INFO] [PUT] Resend product_id: 69fb55bb374ce96be9004b22
+2026-05-06 14:46:50,879 [INFO] Resend sucesso: 69fb55bb374ce96be9004b22
+2026-05-06 14:46:51,381 [INFO] [GET] SKU: 114182
+2026-05-06 14:46:52,609 [INFO] SKU 114182 -> product_id: 69fb55b883bc70bbd0adbe58
+2026-05-06 14:46:52,612 [INFO] [PUT] Resend product_id: 69fb55b883bc70bbd0adbe58
+2026-05-06 14:46:53,634 [INFO] Resend sucesso: 69fb55b883bc70bbd0adbe58
+2026-05-06 14:46:54,140 [INFO] [GET] SKU: 114181
+2026-05-06 14:46:55,126 [INFO] SKU 114181 -> product_id: 69fb55b5c087402d70fddbed
+2026-05-06 14:46:55,128 [INFO] [PUT] Resend product_id: 69fb55b5c087402d70fddbed
+2026-05-06 14:46:56,742 [INFO] Resend sucesso: 69fb55b5c087402d70fddbed
+2026-05-06 14:46:57,248 [INFO] [GET] SKU: 114180
+2026-05-06 14:46:58,358 [INFO] SKU 114180 -> product_id: 69fb55b3abb4183d04b0c261
+2026-05-06 14:46:58,360 [INFO] [PUT] Resend product_id: 69fb55b3abb4183d04b0c261
+2026-05-06 14:46:59,877 [INFO] Resend sucesso: 69fb55b3abb4183d04b0c261
+2026-05-06 14:47:00,385 [INFO] [GET] SKU: Q0011
+2026-05-06 14:47:01,303 [INFO] SKU Q0011 -> product_id: 69fb454aac45aaabddeb27ec
+2026-05-06 14:47:01,305 [INFO] [PUT] Resend product_id: 69fb454aac45aaabddeb27ec
+2026-05-06 14:47:02,593 [INFO] Resend sucesso: 69fb454aac45aaabddeb27ec
+2026-05-06 14:47:03,099 [INFO] [GET] SKU: 114169
+2026-05-06 14:47:04,085 [INFO] SKU 114169 -> product_id: 69fb455aac45aaabddeb41bd
+2026-05-06 14:47:04,087 [INFO] [PUT] Resend product_id: 69fb455aac45aaabddeb41bd
+2026-05-06 14:47:05,144 [INFO] Resend sucesso: 69fb455aac45aaabddeb41bd
+2026-05-06 14:47:05,652 [INFO] [GET] SKU: 114168
+2026-05-06 14:47:06,747 [INFO] SKU 114168 -> product_id: 69fb45584c7ad50ccc3b2c4b
+2026-05-06 14:47:06,749 [INFO] [PUT] Resend product_id: 69fb45584c7ad50ccc3b2c4b
+2026-05-06 14:47:07,703 [INFO] Resend sucesso: 69fb45584c7ad50ccc3b2c4b
+2026-05-06 14:47:08,210 [INFO] [GET] SKU: 114167
+2026-05-06 14:47:09,142 [INFO] SKU 114167 -> product_id: 69fb45564c7ad50ccc3b28b1
+2026-05-06 14:47:09,144 [INFO] [PUT] Resend product_id: 69fb45564c7ad50ccc3b28b1
+2026-05-06 14:47:10,112 [INFO] Resend sucesso: 69fb45564c7ad50ccc3b28b1
+2026-05-06 14:47:10,618 [INFO] [GET] SKU: 114166
+2026-05-06 14:47:11,536 [INFO] SKU 114166 -> product_id: 69fb45540bd17d0c3dd33e9d
+2026-05-06 14:47:11,538 [INFO] [PUT] Resend product_id: 69fb45540bd17d0c3dd33e9d
+2026-05-06 14:47:12,472 [INFO] Resend sucesso: 69fb45540bd17d0c3dd33e9d
+2026-05-06 14:47:12,980 [INFO] [GET] SKU: 114165
+2026-05-06 14:47:13,914 [INFO] SKU 114165 -> product_id: 69fb4552cd1346ce57138714
+2026-05-06 14:47:13,916 [INFO] [PUT] Resend product_id: 69fb4552cd1346ce57138714
+2026-05-06 14:47:14,877 [INFO] Resend sucesso: 69fb4552cd1346ce57138714
+2026-05-06 14:47:15,382 [INFO] [GET] SKU: 114164
+2026-05-06 14:47:16,520 [INFO] SKU 114164 -> product_id: 69fb454f0bd17d0c3dd33751
+2026-05-06 14:47:16,521 [INFO] [PUT] Resend product_id: 69fb454f0bd17d0c3dd33751
+2026-05-06 14:47:17,545 [INFO] Resend sucesso: 69fb454f0bd17d0c3dd33751
+2026-05-06 14:47:18,048 [INFO] [GET] SKU: 114163
+2026-05-06 14:47:18,963 [INFO] SKU 114163 -> product_id: 69fb454d8f9c7ed104d0f20c
+2026-05-06 14:47:18,965 [INFO] [PUT] Resend product_id: 69fb454d8f9c7ed104d0f20c
+2026-05-06 14:47:19,964 [INFO] Resend sucesso: 69fb454d8f9c7ed104d0f20c
+2026-05-06 14:47:20,470 [INFO] [GET] SKU: 114162
+2026-05-06 14:47:21,405 [INFO] SKU 114162 -> product_id: 69fb454a8f9c7ed104d0ed8e
+2026-05-06 14:47:21,407 [INFO] [PUT] Resend product_id: 69fb454a8f9c7ed104d0ed8e
+2026-05-06 14:47:22,533 [INFO] Resend sucesso: 69fb454a8f9c7ed104d0ed8e
+2026-05-06 14:47:23,040 [INFO] [GET] SKU: Q0126
+2026-05-06 14:47:24,074 [INFO] SKU Q0126 -> product_id: 69fb455c1c4dd2826ae0a887
+2026-05-06 14:47:24,077 [INFO] [PUT] Resend product_id: 69fb455c1c4dd2826ae0a887
+2026-05-06 14:47:25,432 [INFO] Resend sucesso: 69fb455c1c4dd2826ae0a887
+2026-05-06 14:47:25,938 [INFO] [GET] SKU: 114203
+2026-05-06 14:47:27,679 [INFO] SKU 114203 -> product_id: 69fb45628f9c7ed104d110c5
+2026-05-06 14:47:27,681 [INFO] [PUT] Resend product_id: 69fb45628f9c7ed104d110c5
+2026-05-06 14:47:28,889 [INFO] Resend sucesso: 69fb45628f9c7ed104d110c5
+2026-05-06 14:47:29,392 [INFO] [GET] SKU: 114204
+2026-05-06 14:47:30,640 [INFO] SKU 114204 -> product_id: 69fb456494bbc79fc7a13a66
+2026-05-06 14:47:30,642 [INFO] [PUT] Resend product_id: 69fb456494bbc79fc7a13a66
+2026-05-06 14:47:31,756 [INFO] Resend sucesso: 69fb456494bbc79fc7a13a66
+2026-05-06 14:47:32,263 [INFO] [GET] SKU: 114202
+2026-05-06 14:47:33,399 [INFO] SKU 114202 -> product_id: 69fb45608f9c7ed104d10ecb
+2026-05-06 14:47:33,401 [INFO] [PUT] Resend product_id: 69fb45608f9c7ed104d10ecb
+2026-05-06 14:47:34,527 [INFO] Resend sucesso: 69fb45608f9c7ed104d10ecb
+2026-05-06 14:47:35,034 [INFO] [GET] SKU: 114201
+2026-05-06 14:47:36,068 [INFO] SKU 114201 -> product_id: 69fb455e4c7ad50ccc3b344c
+2026-05-06 14:47:36,070 [INFO] [PUT] Resend product_id: 69fb455e4c7ad50ccc3b344c
+2026-05-06 14:47:36,990 [INFO] Resend sucesso: 69fb455e4c7ad50ccc3b344c
+2026-05-06 14:47:37,497 [INFO] [GET] SKU: 114200
+2026-05-06 14:47:38,526 [INFO] SKU 114200 -> product_id: 69fb455c1c4dd2826ae0aa16
+2026-05-06 14:47:38,528 [INFO] [PUT] Resend product_id: 69fb455c1c4dd2826ae0aa16
+2026-05-06 14:47:39,650 [INFO] Resend sucesso: 69fb455c1c4dd2826ae0aa16
+2026-05-06 14:47:40,157 [INFO] [GET] SKU: Q0132
+2026-05-06 14:47:41,088 [INFO] SKU Q0132 -> product_id: 69fb479f3a68e642a0c73ddb
+2026-05-06 14:47:41,090 [INFO] [PUT] Resend product_id: 69fb479f3a68e642a0c73ddb
+2026-05-06 14:47:42,091 [INFO] Resend sucesso: 69fb479f3a68e642a0c73ddb
+2026-05-06 14:47:42,596 [INFO] [GET] SKU: 114230
+2026-05-06 14:47:44,029 [INFO] SKU 114230 -> product_id: 69fb47a2cd1346ce57173119
+2026-05-06 14:47:44,031 [INFO] [PUT] Resend product_id: 69fb47a2cd1346ce57173119
+2026-05-06 14:47:45,015 [INFO] Resend sucesso: 69fb47a2cd1346ce57173119
+2026-05-06 14:47:45,520 [INFO] [GET] SKU: 114231
+2026-05-06 14:47:46,477 [INFO] SKU 114231 -> product_id: 69fb4ea8dcb154c1e352578c
+2026-05-06 14:47:46,479 [INFO] [PUT] Resend product_id: 69fb4ea8dcb154c1e352578c
+2026-05-06 14:47:47,513 [INFO] Resend sucesso: 69fb4ea8dcb154c1e352578c
+2026-05-06 14:47:48,020 [INFO] [GET] SKU: 114232
+2026-05-06 14:47:49,029 [INFO] SKU 114232 -> product_id: 69fb4ea6374ce96be9f55119
+2026-05-06 14:47:49,031 [INFO] [PUT] Resend product_id: 69fb4ea6374ce96be9f55119
+2026-05-06 14:47:50,061 [INFO] Resend sucesso: 69fb4ea6374ce96be9f55119
+2026-05-06 14:47:50,568 [INFO] [GET] SKU: 114233
+2026-05-06 14:47:51,491 [INFO] SKU 114233 -> product_id: 69fb4ea4374ce96be9f54d0b
+2026-05-06 14:47:51,493 [INFO] [PUT] Resend product_id: 69fb4ea4374ce96be9f54d0b
+2026-05-06 14:47:52,497 [INFO] Resend sucesso: 69fb4ea4374ce96be9f54d0b
+2026-05-06 14:47:53,000 [INFO] [GET] SKU: 114234
+2026-05-06 14:47:53,934 [INFO] SKU 114234 -> product_id: 69fb4ea1374ce96be9f5489d
+2026-05-06 14:47:53,936 [INFO] [PUT] Resend product_id: 69fb4ea1374ce96be9f5489d
+2026-05-06 14:47:55,058 [INFO] Resend sucesso: 69fb4ea1374ce96be9f5489d
+2026-05-06 14:47:55,565 [INFO] [GET] SKU: 114229
+2026-05-06 14:47:56,526 [INFO] SKU 114229 -> product_id: 69fb479f8f9c7ed104d49ddf
+2026-05-06 14:47:56,528 [INFO] [PUT] Resend product_id: 69fb479f8f9c7ed104d49ddf
+2026-05-06 14:47:57,506 [INFO] Resend sucesso: 69fb479f8f9c7ed104d49ddf
+2026-05-06 14:47:58,014 [INFO] [GET] SKU: Q0168
+2026-05-06 14:47:58,980 [INFO] SKU Q0168 -> product_id: 69fb4ead37e48995b28ad35f
+2026-05-06 14:47:58,981 [INFO] [PUT] Resend product_id: 69fb4ead37e48995b28ad35f
+2026-05-06 14:48:00,005 [INFO] Resend sucesso: 69fb4ead37e48995b28ad35f
+2026-05-06 14:48:00,512 [INFO] [GET] SKU: 114254
+2026-05-06 14:48:01,565 [INFO] SKU 114254 -> product_id: 69fb511283bc70bbd0a670da
+2026-05-06 14:48:01,567 [INFO] [PUT] Resend product_id: 69fb511283bc70bbd0a670da
+2026-05-06 14:48:02,792 [INFO] Resend sucesso: 69fb511283bc70bbd0a670da
+2026-05-06 14:48:03,299 [INFO] [GET] SKU: 115533
+2026-05-06 14:48:04,757 [INFO] SKU 115533 -> product_id: 69fb511037e48995b28e5c04
+2026-05-06 14:48:04,759 [INFO] [PUT] Resend product_id: 69fb511037e48995b28e5c04
+2026-05-06 14:48:06,167 [INFO] Resend sucesso: 69fb511037e48995b28e5c04
+2026-05-06 14:48:06,670 [INFO] [GET] SKU: 114253
+2026-05-06 14:48:07,847 [INFO] SKU 114253 -> product_id: 69fb510ec087402d70f69de2
+2026-05-06 14:48:07,849 [INFO] [PUT] Resend product_id: 69fb510ec087402d70f69de2
+2026-05-06 14:48:08,894 [INFO] Resend sucesso: 69fb510ec087402d70f69de2
+2026-05-06 14:48:09,398 [INFO] [GET] SKU: 114252
+2026-05-06 14:48:10,416 [INFO] SKU 114252 -> product_id: 69fb510cb4c0f7df6832effe
+2026-05-06 14:48:10,418 [INFO] [PUT] Resend product_id: 69fb510cb4c0f7df6832effe
+2026-05-06 14:48:11,504 [INFO] Resend sucesso: 69fb510cb4c0f7df6832effe
+2026-05-06 14:48:12,007 [INFO] [GET] SKU: 114251
+2026-05-06 14:48:12,969 [INFO] SKU 114251 -> product_id: 69fb510a374ce96be9f8e4fc
+2026-05-06 14:48:12,971 [INFO] [PUT] Resend product_id: 69fb510a374ce96be9f8e4fc
+2026-05-06 14:48:14,326 [INFO] Resend sucesso: 69fb510a374ce96be9f8e4fc
+2026-05-06 14:48:14,831 [INFO] [GET] SKU: 114250
+2026-05-06 14:48:15,815 [INFO] SKU 114250 -> product_id: 69fb51095b288de070db7bb5
+2026-05-06 14:48:15,817 [INFO] [PUT] Resend product_id: 69fb51095b288de070db7bb5
+2026-05-06 14:48:16,849 [INFO] Resend sucesso: 69fb51095b288de070db7bb5
+2026-05-06 14:48:17,354 [INFO] [GET] SKU: 114249
+2026-05-06 14:48:18,447 [INFO] SKU 114249 -> product_id: 69fb51065b288de070db77c2
+2026-05-06 14:48:18,449 [INFO] [PUT] Resend product_id: 69fb51065b288de070db77c2
+2026-05-06 14:48:19,406 [INFO] Resend sucesso: 69fb51065b288de070db77c2
+2026-05-06 14:48:19,913 [INFO] [GET] SKU: 114247
+2026-05-06 14:48:20,977 [INFO] SKU 114247 -> product_id: 69fb4ead8fb0e33152a96ce3
+2026-05-06 14:48:20,979 [INFO] [PUT] Resend product_id: 69fb4ead8fb0e33152a96ce3
+2026-05-06 14:48:22,169 [INFO] Resend sucesso: 69fb4ead8fb0e33152a96ce3
+2026-05-06 14:48:22,675 [INFO] [GET] SKU: 114248
+2026-05-06 14:48:23,581 [INFO] SKU 114248 -> product_id: 69fb4eb083bc70bbd0a2ea2d
+2026-05-06 14:48:23,582 [INFO] [PUT] Resend product_id: 69fb4eb083bc70bbd0a2ea2d
+2026-05-06 14:48:24,713 [INFO] Resend sucesso: 69fb4eb083bc70bbd0a2ea2d
+2026-05-06 14:48:25,216 [INFO] [GET] SKU: Q0169
+2026-05-06 14:48:26,233 [INFO] SKU Q0169 -> product_id: 69fb5114abb4183d04a976c6
+2026-05-06 14:48:26,235 [INFO] [PUT] Resend product_id: 69fb5114abb4183d04a976c6
+2026-05-06 14:48:27,318 [INFO] Resend sucesso: 69fb5114abb4183d04a976c6
+2026-05-06 14:48:27,819 [INFO] [GET] SKU: 114262
+2026-05-06 14:48:28,950 [INFO] SKU 114262 -> product_id: 69fb5122dcb154c1e3560f8e
+2026-05-06 14:48:28,952 [INFO] [PUT] Resend product_id: 69fb5122dcb154c1e3560f8e
+2026-05-06 14:48:30,539 [INFO] Resend sucesso: 69fb5122dcb154c1e3560f8e
+2026-05-06 14:48:31,046 [INFO] [GET] SKU: 114261
+2026-05-06 14:48:32,060 [INFO] SKU 114261 -> product_id: 69fb512137e48995b28e7672
+2026-05-06 14:48:32,062 [INFO] [PUT] Resend product_id: 69fb512137e48995b28e7672
+2026-05-06 14:48:33,263 [INFO] Resend sucesso: 69fb512137e48995b28e7672
+2026-05-06 14:48:33,766 [INFO] [GET] SKU: 114260
+2026-05-06 14:48:34,772 [INFO] SKU 114260 -> product_id: 69fb511fabb4183d04a98765
+2026-05-06 14:48:34,774 [INFO] [PUT] Resend product_id: 69fb511fabb4183d04a98765
+2026-05-06 14:48:35,932 [INFO] Resend sucesso: 69fb511fabb4183d04a98765
+2026-05-06 14:48:36,440 [INFO] [GET] SKU: 114259
+2026-05-06 14:48:37,375 [INFO] SKU 114259 -> product_id: 69fb511d5b288de070db9d4e
+2026-05-06 14:48:37,377 [INFO] [PUT] Resend product_id: 69fb511d5b288de070db9d4e
+2026-05-06 14:48:38,386 [INFO] Resend sucesso: 69fb511d5b288de070db9d4e
+2026-05-06 14:48:38,892 [INFO] [GET] SKU: 114258
+2026-05-06 14:48:39,838 [INFO] SKU 114258 -> product_id: 69fb511b8fb0e33152ad10da
+2026-05-06 14:48:39,840 [INFO] [PUT] Resend product_id: 69fb511b8fb0e33152ad10da
+2026-05-06 14:48:41,093 [INFO] Resend sucesso: 69fb511b8fb0e33152ad10da
+2026-05-06 14:48:41,597 [INFO] [GET] SKU: 114257
+2026-05-06 14:48:42,669 [INFO] SKU 114257 -> product_id: 69fb511983bc70bbd0a67c6b
+2026-05-06 14:48:42,672 [INFO] [PUT] Resend product_id: 69fb511983bc70bbd0a67c6b
+2026-05-06 14:48:43,960 [INFO] Resend sucesso: 69fb511983bc70bbd0a67c6b
+2026-05-06 14:48:44,466 [INFO] [GET] SKU: 114256
+2026-05-06 14:48:45,650 [INFO] SKU 114256 -> product_id: 69fb5117abb4183d04a97c15
+2026-05-06 14:48:45,652 [INFO] [PUT] Resend product_id: 69fb5117abb4183d04a97c15
+2026-05-06 14:48:46,650 [INFO] Resend sucesso: 69fb5117abb4183d04a97c15
+2026-05-06 14:48:47,157 [INFO] [GET] SKU: 114255
+2026-05-06 14:48:48,082 [INFO] SKU 114255 -> product_id: 69fb51148fb0e33152ad0592
+2026-05-06 14:48:48,084 [INFO] [PUT] Resend product_id: 69fb51148fb0e33152ad0592
+2026-05-06 14:48:49,114 [INFO] Resend sucesso: 69fb51148fb0e33152ad0592
+2026-05-06 14:48:49,620 [INFO] [GET] SKU: Q0012
+2026-05-06 14:48:50,687 [INFO] SKU Q0012 -> product_id: 69fb5352c087402d70fa013e
+2026-05-06 14:48:50,689 [INFO] [PUT] Resend product_id: 69fb5352c087402d70fa013e
+2026-05-06 14:48:51,856 [INFO] Resend sucesso: 69fb5352c087402d70fa013e
+2026-05-06 14:48:52,360 [INFO] [GET] SKU: 114174
+2026-05-06 14:48:53,578 [INFO] SKU 114174 -> product_id: 69fb53601e7edc2e31f7c70a
+2026-05-06 14:48:53,579 [INFO] [PUT] Resend product_id: 69fb53601e7edc2e31f7c70a
+2026-05-06 14:48:54,732 [INFO] Resend sucesso: 69fb53601e7edc2e31f7c70a
+2026-05-06 14:48:55,239 [INFO] [GET] SKU: 114173
+2026-05-06 14:48:56,392 [INFO] SKU 114173 -> product_id: 69fb535dc087402d70fa120d
+2026-05-06 14:48:56,393 [INFO] [PUT] Resend product_id: 69fb535dc087402d70fa120d
+2026-05-06 14:48:57,361 [INFO] Resend sucesso: 69fb535dc087402d70fa120d
+2026-05-06 14:48:57,868 [INFO] [GET] SKU: 114172
+2026-05-06 14:48:58,772 [INFO] SKU 114172 -> product_id: 69fb535a5b288de070df0391
+2026-05-06 14:48:58,789 [INFO] [PUT] Resend product_id: 69fb535a5b288de070df0391
+2026-05-06 14:48:59,908 [INFO] Resend sucesso: 69fb535a5b288de070df0391
+2026-05-06 14:49:00,415 [INFO] [GET] SKU: 114171
+2026-05-06 14:49:01,530 [INFO] SKU 114171 -> product_id: 69fb5356dcb154c1e35966b9
+2026-05-06 14:49:01,532 [INFO] [PUT] Resend product_id: 69fb5356dcb154c1e35966b9
+2026-05-06 14:49:02,544 [INFO] Resend sucesso: 69fb5356dcb154c1e35966b9
+2026-05-06 14:49:03,046 [INFO] [GET] SKU: 114170
+2026-05-06 14:49:03,962 [INFO] SKU 114170 -> product_id: 69fb5353dcb154c1e3595fde
+2026-05-06 14:49:03,964 [INFO] [PUT] Resend product_id: 69fb5353dcb154c1e3595fde
+2026-05-06 14:49:05,354 [INFO] Resend sucesso: 69fb5353dcb154c1e3595fde
+2026-05-06 14:49:05,861 [INFO] [GET] SKU: Q0127
+2026-05-06 14:49:06,834 [INFO] SKU Q0127 -> product_id: 69fb536237e48995b291e10f
+2026-05-06 14:49:06,835 [INFO] [PUT] Resend product_id: 69fb536237e48995b291e10f
+2026-05-06 14:49:07,776 [INFO] Resend sucesso: 69fb536237e48995b291e10f
+2026-05-06 14:49:08,284 [INFO] [GET] SKU: 114212
+2026-05-06 14:49:09,548 [INFO] SKU 114212 -> product_id: 69fb5375dcb154c1e3599671
+2026-05-06 14:49:09,550 [INFO] [PUT] Resend product_id: 69fb5375dcb154c1e3599671
+2026-05-06 14:49:10,620 [INFO] Resend sucesso: 69fb5375dcb154c1e3599671
+2026-05-06 14:49:11,127 [INFO] [GET] SKU: 114211
+2026-05-06 14:49:12,153 [INFO] SKU 114211 -> product_id: 69fb5373dcb154c1e359939d
+2026-05-06 14:49:12,155 [INFO] [PUT] Resend product_id: 69fb5373dcb154c1e359939d
+2026-05-06 14:49:13,292 [INFO] Resend sucesso: 69fb5373dcb154c1e359939d
+2026-05-06 14:49:13,796 [INFO] [GET] SKU: 114210
+2026-05-06 14:49:14,751 [INFO] SKU 114210 -> product_id: 69fb5370b4c0f7df683695cf
+2026-05-06 14:49:14,753 [INFO] [PUT] Resend product_id: 69fb5370b4c0f7df683695cf
+2026-05-06 14:49:15,773 [INFO] Resend sucesso: 69fb5370b4c0f7df683695cf
+2026-05-06 14:49:16,279 [INFO] [GET] SKU: 114209
+2026-05-06 14:49:17,187 [INFO] SKU 114209 -> product_id: 69fb536e37e48995b291f1dd
+2026-05-06 14:49:17,189 [INFO] [PUT] Resend product_id: 69fb536e37e48995b291f1dd
+2026-05-06 14:49:18,147 [INFO] Resend sucesso: 69fb536e37e48995b291f1dd
+2026-05-06 14:49:18,655 [INFO] [GET] SKU: 114208
+2026-05-06 14:49:19,627 [INFO] SKU 114208 -> product_id: 69fb536cdcb154c1e3598872
+2026-05-06 14:49:19,629 [INFO] [PUT] Resend product_id: 69fb536cdcb154c1e3598872
+2026-05-06 14:49:20,599 [INFO] Resend sucesso: 69fb536cdcb154c1e3598872
+2026-05-06 14:49:21,103 [INFO] [GET] SKU: 114207
+2026-05-06 14:49:22,402 [INFO] SKU 114207 -> product_id: 69fb536837e48995b291e7e3
+2026-05-06 14:49:22,404 [INFO] [PUT] Resend product_id: 69fb536837e48995b291e7e3
+2026-05-06 14:49:23,396 [INFO] Resend sucesso: 69fb536837e48995b291e7e3
+2026-05-06 14:49:23,902 [INFO] [GET] SKU: 114206
+2026-05-06 14:49:24,854 [INFO] SKU 114206 -> product_id: 69fb536683bc70bbd0a9f110
+2026-05-06 14:49:24,856 [INFO] [PUT] Resend product_id: 69fb536683bc70bbd0a9f110
+2026-05-06 14:49:25,816 [INFO] Resend sucesso: 69fb536683bc70bbd0a9f110
+2026-05-06 14:49:26,318 [INFO] [GET] SKU: 114205
+2026-05-06 14:49:27,351 [INFO] SKU 114205 -> product_id: 69fb5363abb4183d04ad05d1
+2026-05-06 14:49:27,352 [INFO] [PUT] Resend product_id: 69fb5363abb4183d04ad05d1
+2026-05-06 14:49:28,262 [INFO] Resend sucesso: 69fb5363abb4183d04ad05d1
+2026-05-06 14:49:28,769 [INFO] [GET] SKU: Q0013
+2026-05-06 14:49:30,241 [INFO] SKU Q0013 -> product_id: 69fb5377b4c0f7df6836a111
+2026-05-06 14:49:30,243 [INFO] [PUT] Resend product_id: 69fb5377b4c0f7df6836a111
+2026-05-06 14:49:31,220 [INFO] Resend sucesso: 69fb5377b4c0f7df6836a111
+2026-05-06 14:49:31,727 [INFO] [GET] SKU: 114177
+2026-05-06 14:49:32,660 [INFO] SKU 114177 -> product_id: 69fb5380abb4183d04ad3286
+2026-05-06 14:49:32,662 [INFO] [PUT] Resend product_id: 69fb5380abb4183d04ad3286
+2026-05-06 14:49:33,623 [INFO] Resend sucesso: 69fb5380abb4183d04ad3286
+2026-05-06 14:49:34,128 [INFO] [GET] SKU: 114179
+2026-05-06 14:49:35,289 [INFO] SKU 114179 -> product_id: 69fb537ec087402d70fa437f
+2026-05-06 14:49:35,291 [INFO] [PUT] Resend product_id: 69fb537ec087402d70fa437f
+2026-05-06 14:49:36,397 [INFO] Resend sucesso: 69fb537ec087402d70fa437f
+2026-05-06 14:49:36,903 [INFO] [GET] SKU: 114178
+2026-05-06 14:49:38,228 [INFO] SKU 114178 -> product_id: 69fb537c8fb0e33152b09f86
+2026-05-06 14:49:38,230 [INFO] [PUT] Resend product_id: 69fb537c8fb0e33152b09f86
+2026-05-06 14:49:39,666 [INFO] Resend sucesso: 69fb537c8fb0e33152b09f86
+2026-05-06 14:49:40,170 [INFO] [GET] SKU: 114176
+2026-05-06 14:49:41,091 [INFO] SKU 114176 -> product_id: 69fb537a8fb0e33152b09cd2
+2026-05-06 14:49:41,093 [INFO] [PUT] Resend product_id: 69fb537a8fb0e33152b09cd2
+2026-05-06 14:49:42,025 [INFO] Resend sucesso: 69fb537a8fb0e33152b09cd2
+2026-05-06 14:49:42,531 [INFO] [GET] SKU: 114175
+2026-05-06 14:49:43,441 [INFO] SKU 114175 -> product_id: 69fb53785b288de070df323d
+2026-05-06 14:49:43,443 [INFO] [PUT] Resend product_id: 69fb53785b288de070df323d
+2026-05-06 14:49:44,781 [INFO] Resend sucesso: 69fb53785b288de070df323d
+2026-05-06 14:49:45,285 [INFO] [GET] SKU: Q0128
+2026-05-06 14:49:46,300 [INFO] SKU Q0128 -> product_id: 69fb5382abb4183d04ad3472
+2026-05-06 14:49:46,302 [INFO] [PUT] Resend product_id: 69fb5382abb4183d04ad3472
+2026-05-06 14:49:47,304 [INFO] Resend sucesso: 69fb5382abb4183d04ad3472
+2026-05-06 14:49:47,809 [INFO] [GET] SKU: 114220
+2026-05-06 14:49:48,733 [INFO] SKU 114220 -> product_id: 69fb55b0374ce96be9003997
+2026-05-06 14:49:48,734 [INFO] [PUT] Resend product_id: 69fb55b0374ce96be9003997
+2026-05-06 14:49:49,699 [INFO] Resend sucesso: 69fb55b0374ce96be9003997
+2026-05-06 14:49:50,201 [INFO] [GET] SKU: 114219
+2026-05-06 14:49:51,170 [INFO] SKU 114219 -> product_id: 69fb55ae1e7edc2e31fb805d
+2026-05-06 14:49:51,171 [INFO] [PUT] Resend product_id: 69fb55ae1e7edc2e31fb805d
+2026-05-06 14:49:52,507 [INFO] Resend sucesso: 69fb55ae1e7edc2e31fb805d
+2026-05-06 14:49:53,010 [INFO] [GET] SKU: 114218
+2026-05-06 14:49:54,274 [INFO] SKU 114218 -> product_id: 69fb55ab1e7edc2e31fb7c08
+2026-05-06 14:49:54,276 [INFO] [PUT] Resend product_id: 69fb55ab1e7edc2e31fb7c08
+2026-05-06 14:49:55,229 [INFO] Resend sucesso: 69fb55ab1e7edc2e31fb7c08
+2026-05-06 14:49:55,735 [INFO] [GET] SKU: 114217
+2026-05-06 14:49:56,753 [INFO] SKU 114217 -> product_id: 69fb55a883bc70bbd0ada306
+2026-05-06 14:49:56,755 [INFO] [PUT] Resend product_id: 69fb55a883bc70bbd0ada306
+2026-05-06 14:49:57,703 [INFO] Resend sucesso: 69fb55a883bc70bbd0ada306
+2026-05-06 14:49:58,208 [INFO] [GET] SKU: 114216
+2026-05-06 14:49:59,953 [INFO] SKU 114216 -> product_id: 69fb5388b4c0f7df6836ba2b
+2026-05-06 14:49:59,955 [INFO] [PUT] Resend product_id: 69fb5388b4c0f7df6836ba2b
+2026-05-06 14:50:00,921 [INFO] Resend sucesso: 69fb5388b4c0f7df6836ba2b
+2026-05-06 14:50:01,429 [INFO] [GET] SKU: 114215
+2026-05-06 14:50:02,711 [INFO] SKU 114215 -> product_id: 69fb538637e48995b2921256
+2026-05-06 14:50:02,712 [INFO] [PUT] Resend product_id: 69fb538637e48995b2921256
+2026-05-06 14:50:04,141 [INFO] Resend sucesso: 69fb538637e48995b2921256
+2026-05-06 14:50:04,645 [INFO] [GET] SKU: 114214
+2026-05-06 14:50:05,581 [INFO] SKU 114214 -> product_id: 69fb5384b4c0f7df6836b375
+2026-05-06 14:50:05,583 [INFO] [PUT] Resend product_id: 69fb5384b4c0f7df6836b375
+2026-05-06 14:50:06,527 [INFO] Resend sucesso: 69fb5384b4c0f7df6836b375
+2026-05-06 14:50:07,033 [INFO] [GET] SKU: 114213
+2026-05-06 14:50:07,925 [INFO] SKU 114213 -> product_id: 69fb53825b288de070df426c
+2026-05-06 14:50:07,927 [INFO] [PUT] Resend product_id: 69fb53825b288de070df426c
+2026-05-06 14:50:08,956 [INFO] Resend sucesso: 69fb53825b288de070df426c
+2026-05-06 15:06:50,560 [INFO] [GET] SKU: Q0124-488
+2026-05-06 15:06:51,950 [INFO] SKU Q0124-488 -> product_id: 69fb3bee0bd17d0c3dc4bb4e
+2026-05-06 15:06:51,951 [INFO] [PUT] Resend product_id: 69fb3bee0bd17d0c3dc4bb4e
+2026-05-06 15:06:53,058 [INFO] Resend sucesso: 69fb3bee0bd17d0c3dc4bb4e
+2026-05-06 15:06:53,565 [INFO] [GET] SKU: 114185
+2026-05-06 15:06:54,510 [INFO] SKU 114185 -> product_id: 69fb3bef0bd17d0c3dc4bbea
+2026-05-06 15:06:54,512 [INFO] [PUT] Resend product_id: 69fb3bef0bd17d0c3dc4bbea
+2026-05-06 15:06:55,779 [INFO] Resend sucesso: 69fb3bef0bd17d0c3dc4bbea
+2026-05-06 15:06:56,284 [INFO] [GET] SKU: 114189
+2026-05-06 15:06:57,403 [INFO] SKU 114189 -> product_id: 69fb3bf794bbc79fc792b640
+2026-05-06 15:06:57,405 [INFO] [PUT] Resend product_id: 69fb3bf794bbc79fc792b640
+2026-05-06 15:06:58,372 [INFO] Resend sucesso: 69fb3bf794bbc79fc792b640
+2026-05-06 15:06:58,879 [INFO] [GET] SKU: 114187
+2026-05-06 15:06:59,787 [INFO] SKU 114187 -> product_id: 69fb3bf30bd17d0c3dc4c24a
+2026-05-06 15:06:59,788 [INFO] [PUT] Resend product_id: 69fb3bf30bd17d0c3dc4c24a
+2026-05-06 15:07:00,968 [INFO] Resend sucesso: 69fb3bf30bd17d0c3dc4c24a
+2026-05-06 15:07:01,475 [INFO] [GET] SKU: 114188
+2026-05-06 15:07:02,622 [INFO] SKU 114188 -> product_id: 69fb3bf515de233e1bfe0607
+2026-05-06 15:07:02,624 [INFO] [PUT] Resend product_id: 69fb3bf515de233e1bfe0607
+2026-05-06 15:07:04,015 [INFO] Resend sucesso: 69fb3bf515de233e1bfe0607
+2026-05-06 15:07:04,518 [INFO] [GET] SKU: 114186
+2026-05-06 15:07:06,031 [INFO] SKU 114186 -> product_id: 69fb3bf1cd1346ce570522e5
+2026-05-06 15:07:06,034 [INFO] [PUT] Resend product_id: 69fb3bf1cd1346ce570522e5
+2026-05-06 15:07:06,988 [INFO] Resend sucesso: 69fb3bf1cd1346ce570522e5
+2026-05-06 15:08:49,745 [INFO] [GET] SKU: Q0010-489
+2026-05-06 15:08:51,028 [INFO] SKU Q0010-489 -> product_id: 69fb3e5ccd1346ce5708b3a5
+2026-05-06 15:08:51,030 [INFO] [PUT] Resend product_id: 69fb3e5ccd1346ce5708b3a5
+2026-05-06 15:08:52,071 [INFO] Resend sucesso: 69fb3e5ccd1346ce5708b3a5
+2026-05-06 15:08:52,579 [INFO] [GET] SKU: 114146
+2026-05-06 15:08:53,586 [INFO] SKU 114146 -> product_id: 69fb3e5c0bd17d0c3dc86a3d
+2026-05-06 15:08:53,588 [INFO] [PUT] Resend product_id: 69fb3e5c0bd17d0c3dc86a3d
+2026-05-06 15:08:54,580 [INFO] Resend sucesso: 69fb3e5c0bd17d0c3dc86a3d
+2026-05-06 15:08:55,087 [INFO] [GET] SKU: 114153
+2026-05-06 15:08:56,176 [INFO] SKU 114153 -> product_id: 69fb409f8f9c7ed104c9dd11
+2026-05-06 15:08:56,177 [INFO] [PUT] Resend product_id: 69fb409f8f9c7ed104c9dd11
+2026-05-06 15:08:57,210 [INFO] Resend sucesso: 69fb409f8f9c7ed104c9dd11
+2026-05-06 15:08:57,713 [INFO] [GET] SKU: 114152
+2026-05-06 15:08:58,686 [INFO] SKU 114152 -> product_id: 69fb409d94bbc79fc799e866
+2026-05-06 15:08:58,689 [INFO] [PUT] Resend product_id: 69fb409d94bbc79fc799e866
+2026-05-06 15:08:59,614 [INFO] Resend sucesso: 69fb409d94bbc79fc799e866
+2026-05-06 15:09:00,119 [INFO] [GET] SKU: 114151
+2026-05-06 15:09:01,054 [INFO] SKU 114151 -> product_id: 69fb409b4c7ad50ccc33e9e9
+2026-05-06 15:09:01,057 [INFO] [PUT] Resend product_id: 69fb409b4c7ad50ccc33e9e9
+2026-05-06 15:09:01,950 [INFO] Resend sucesso: 69fb409b4c7ad50ccc33e9e9
+2026-05-06 15:09:02,457 [INFO] [GET] SKU: 114150
+2026-05-06 15:09:03,424 [INFO] SKU 114150 -> product_id: 69fb409894bbc79fc799ddf4
+2026-05-06 15:09:03,426 [INFO] [PUT] Resend product_id: 69fb409894bbc79fc799ddf4
+2026-05-06 15:09:04,438 [INFO] Resend sucesso: 69fb409894bbc79fc799ddf4
+2026-05-06 15:09:04,941 [INFO] [GET] SKU: 114149
+2026-05-06 15:09:06,505 [INFO] SKU 114149 -> product_id: 69fb40968f9c7ed104c9cc8a
+2026-05-06 15:09:06,507 [INFO] [PUT] Resend product_id: 69fb40968f9c7ed104c9cc8a
+2026-05-06 15:09:07,994 [INFO] Resend sucesso: 69fb40968f9c7ed104c9cc8a
+2026-05-06 15:09:08,501 [INFO] [GET] SKU: 114148
+2026-05-06 15:09:09,890 [INFO] SKU 114148 -> product_id: 69fb3e608f9c7ed104c63087
+2026-05-06 15:09:09,892 [INFO] [PUT] Resend product_id: 69fb3e608f9c7ed104c63087
+2026-05-06 15:09:10,974 [INFO] Resend sucesso: 69fb3e608f9c7ed104c63087
+2026-05-06 15:09:11,481 [INFO] [GET] SKU: 114147
+2026-05-06 15:09:12,774 [INFO] SKU 114147 -> product_id: 69fb3e5e1c4dd2826ad5e284
+2026-05-06 15:09:12,776 [INFO] [PUT] Resend product_id: 69fb3e5e1c4dd2826ad5e284
+2026-05-06 15:09:13,861 [INFO] Resend sucesso: 69fb3e5e1c4dd2826ad5e284
+2026-05-07 11:43:55,461 [INFO] [GET] SKU: 25131
+2026-05-07 11:43:56,689 [INFO] SKU 25131 -> product_id: 69fc7f96dcb154c1e30b3fa5
+2026-05-07 11:43:56,690 [INFO] [PUT] Resend product_id: 69fc7f96dcb154c1e30b3fa5
+2026-05-07 11:43:57,628 [INFO] Resend sucesso: 69fc7f96dcb154c1e30b3fa5
+2026-05-07 11:43:58,134 [INFO] [GET] SKU: 17447
+2026-05-07 11:44:00,440 [INFO] SKU 17447 -> product_id: 69fc7f9783bc70bbd05c8e6d
+2026-05-07 11:44:00,443 [INFO] [PUT] Resend product_id: 69fc7f9783bc70bbd05c8e6d
+2026-05-07 11:44:04,242 [INFO] Resend sucesso: 69fc7f9783bc70bbd05c8e6d
+2026-05-07 11:44:04,750 [INFO] [GET] SKU: 29506
+2026-05-07 11:44:09,768 [INFO] SKU 29506 -> product_id: 69fc81fac087402d70afb96f
+2026-05-07 11:44:09,770 [INFO] [PUT] Resend product_id: 69fc81fac087402d70afb96f
+2026-05-07 11:44:12,354 [INFO] Resend sucesso: 69fc81fac087402d70afb96f
+2026-05-07 11:44:12,861 [INFO] [GET] SKU: 29506
+2026-05-07 11:44:16,398 [INFO] SKU 29506 -> product_id: 69fc81fac087402d70afb96f
+2026-05-07 11:44:16,400 [INFO] [PUT] Resend product_id: 69fc81fac087402d70afb96f
+2026-05-07 11:44:21,625 [INFO] Resend sucesso: 69fc81fac087402d70afb96f
+2026-05-07 11:44:22,131 [INFO] [GET] SKU: 29518
+2026-05-07 11:44:25,614 [INFO] SKU 29518 -> product_id: 69fc81fb1e7edc2e31ada81f
+2026-05-07 11:44:25,615 [INFO] [PUT] Resend product_id: 69fc81fb1e7edc2e31ada81f
+2026-05-07 11:44:26,927 [INFO] Resend sucesso: 69fc81fb1e7edc2e31ada81f
+2026-05-07 11:44:27,433 [INFO] [GET] SKU: 59066
+2026-05-07 11:44:39,549 [INFO] SKU 59066 -> product_id: 69fc81fbdcb154c1e30ebe5a
+2026-05-07 11:44:39,551 [INFO] [PUT] Resend product_id: 69fc81fbdcb154c1e30ebe5a
+2026-05-07 11:44:41,000 [INFO] Resend sucesso: 69fc81fbdcb154c1e30ebe5a
+2026-05-07 11:44:41,507 [INFO] [GET] SKU: 29530
+2026-05-07 11:44:42,688 [INFO] SKU 29530 -> product_id: 69fc8202c087402d70afc5ab
+2026-05-07 11:44:42,690 [INFO] [PUT] Resend product_id: 69fc8202c087402d70afc5ab
+2026-05-07 11:44:44,380 [INFO] Resend sucesso: 69fc8202c087402d70afc5ab
+2026-05-07 11:44:44,886 [INFO] [GET] SKU: 59192
+2026-05-07 11:44:46,945 [INFO] SKU 59192 -> product_id: 69fc8203374ce96be9b2a6d9
+2026-05-07 11:44:46,946 [INFO] [PUT] Resend product_id: 69fc8203374ce96be9b2a6d9
+2026-05-07 11:44:48,890 [INFO] Resend sucesso: 69fc8203374ce96be9b2a6d9
+2026-05-07 11:44:49,397 [INFO] [GET] SKU: 29960
+2026-05-07 11:44:50,442 [INFO] SKU 29960 -> product_id: 69fc86c183bc70bbd0679f8e
+2026-05-07 11:44:50,443 [INFO] [PUT] Resend product_id: 69fc86c183bc70bbd0679f8e
+2026-05-07 11:44:51,774 [INFO] Resend sucesso: 69fc86c183bc70bbd0679f8e
+2026-05-07 11:44:52,281 [INFO] [GET] SKU: 66183
+2026-05-07 11:44:54,851 [INFO] SKU 66183 -> product_id: 69fc86c1c087402d70b7572a
+2026-05-07 11:44:54,853 [INFO] [PUT] Resend product_id: 69fc86c1c087402d70b7572a
+2026-05-07 11:44:56,107 [INFO] Resend sucesso: 69fc86c1c087402d70b7572a
+2026-05-07 11:44:56,614 [INFO] [GET] SKU: 29963
+2026-05-07 11:44:58,031 [INFO] SKU 29963 -> product_id: 69fc86c35b288de0709c8401
+2026-05-07 11:44:58,033 [INFO] [PUT] Resend product_id: 69fc86c35b288de0709c8401
+2026-05-07 11:44:59,475 [INFO] Resend sucesso: 69fc86c35b288de0709c8401
+2026-05-07 11:44:59,981 [INFO] [GET] SKU: 66180
+2026-05-07 11:45:02,709 [INFO] SKU 66180 -> product_id: 69fc86c3dcb154c1e316711d
+2026-05-07 11:45:02,711 [INFO] [PUT] Resend product_id: 69fc86c3dcb154c1e316711d
+2026-05-07 11:45:03,930 [INFO] Resend sucesso: 69fc86c3dcb154c1e316711d
+2026-05-07 11:45:04,433 [INFO] [GET] SKU: 66179
+2026-05-07 11:45:05,950 [INFO] SKU 66179 -> product_id: 69fc86c5b4c0f7df68f4223d
+2026-05-07 11:45:05,953 [INFO] [PUT] Resend product_id: 69fc86c5b4c0f7df68f4223d
+2026-05-07 11:45:08,622 [INFO] Resend sucesso: 69fc86c5b4c0f7df68f4223d
+2026-05-07 11:45:09,129 [INFO] [GET] SKU: 29966
+2026-05-07 11:45:10,325 [INFO] SKU 29966 -> product_id: 69fc86c68fb0e331526e1db1
+2026-05-07 11:45:10,327 [INFO] [PUT] Resend product_id: 69fc86c68fb0e331526e1db1
+2026-05-07 11:45:13,878 [INFO] Resend sucesso: 69fc86c68fb0e331526e1db1
+2026-05-07 11:45:14,380 [INFO] [GET] SKU: 66178
+2026-05-07 11:45:29,690 [INFO] SKU 66178 -> product_id: 69fc86ceabb4183d046a6043
+2026-05-07 11:45:29,693 [INFO] [PUT] Resend product_id: 69fc86ceabb4183d046a6043
+2026-05-07 11:45:32,845 [INFO] Resend sucesso: 69fc86ceabb4183d046a6043
+2026-05-07 11:45:33,347 [INFO] [GET] SKU: 66177
+2026-05-07 11:45:35,067 [INFO] SKU 66177 -> product_id: 69fc86cc83bc70bbd067b18b
+2026-05-07 11:45:35,069 [INFO] [PUT] Resend product_id: 69fc86cc83bc70bbd067b18b
+2026-05-07 11:45:37,005 [INFO] Resend sucesso: 69fc86cc83bc70bbd067b18b
+2026-05-07 11:45:37,513 [INFO] [GET] SKU: 66176
+2026-05-07 11:45:38,747 [INFO] SKU 66176 -> product_id: 69fc86cab4c0f7df68f42b65
+2026-05-07 11:45:38,747 [INFO] [PUT] Resend product_id: 69fc86cab4c0f7df68f42b65
+2026-05-07 11:45:40,715 [INFO] Resend sucesso: 69fc86cab4c0f7df68f42b65
+2026-05-07 11:45:41,219 [INFO] [GET] SKU: 66175
+2026-05-07 11:45:44,205 [INFO] SKU 66175 -> product_id: 69fc86c937e48995b24f072c
+2026-05-07 11:45:44,207 [INFO] [PUT] Resend product_id: 69fc86c937e48995b24f072c
+2026-05-07 11:45:45,231 [INFO] Resend sucesso: 69fc86c937e48995b24f072c
+2026-05-07 11:45:45,736 [INFO] [GET] SKU: 66174
+2026-05-07 11:45:49,518 [INFO] SKU 66174 -> product_id: 69fc86c783bc70bbd067a89c
+2026-05-07 11:45:49,519 [INFO] [PUT] Resend product_id: 69fc86c783bc70bbd067a89c
+2026-05-07 11:46:02,902 [INFO] Resend sucesso: 69fc86c783bc70bbd067a89c
+2026-05-07 11:46:03,409 [INFO] [GET] SKU: 29969
+2026-05-07 11:46:04,894 [INFO] SKU 29969 -> product_id: 69fc88ee8fb0e33152717e66
+2026-05-07 11:46:04,897 [INFO] [PUT] Resend product_id: 69fc88ee8fb0e33152717e66
+2026-05-07 11:46:13,255 [INFO] Resend sucesso: 69fc88ee8fb0e33152717e66
+2026-05-07 11:46:13,761 [INFO] [GET] SKU: 66162
+2026-05-07 11:46:18,799 [INFO] SKU 66162 -> product_id: 69fc88ef37e48995b25266fe
+2026-05-07 11:46:18,800 [INFO] [PUT] Resend product_id: 69fc88ef37e48995b25266fe
+2026-05-07 11:46:19,774 [INFO] Resend sucesso: 69fc88ef37e48995b25266fe
+2026-05-07 11:46:20,281 [INFO] [GET] SKU: 29504-3
+2026-05-07 11:46:21,245 [INFO] SKU 29504-3 -> product_id: 69fc81f783bc70bbd060057e
+2026-05-07 11:46:21,247 [INFO] [PUT] Resend product_id: 69fc81f783bc70bbd060057e
+2026-05-07 11:46:28,742 [INFO] Resend sucesso: 69fc81f783bc70bbd060057e
+2026-05-07 11:46:29,250 [INFO] [GET] SKU: 59051
+2026-05-07 11:46:30,203 [INFO] SKU 59051 -> product_id: 69fc81f88fb0e33152665aa8
+2026-05-07 11:46:30,205 [INFO] [PUT] Resend product_id: 69fc81f88fb0e33152665aa8
+2026-05-07 11:47:39,740 [ERROR] Erro inesperado no SKU 59051: HTTPSConnectionPool(host='middleware-prd.api.integra.do', port=443): Max retries exceeded with url: /prd/v1/product/69fc81f88fb0e33152665aa8/resend (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+Traceback (most recent call last):
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/util/ssl_.py", line 483, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/util/ssl_.py", line 527, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/util/retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='middleware-prd.api.integra.do', port=443): Max retries exceeded with url: /prd/v1/product/69fc81f88fb0e33152665aa8/resend (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/guilhermedorigon/Faculdade/1semestre/programacao_computadores/envioProd.py", line 299, in main
+    resend_produto(product_id)
+  File "/Users/guilhermedorigon/Faculdade/1semestre/programacao_computadores/envioProd.py", line 279, in resend_produto
+    response = requests.put(url, headers=HEADERS, json=payload)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/api.py", line 130, in put
+    return request("put", url, data=data, **kwargs)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='middleware-prd.api.integra.do', port=443): Max retries exceeded with url: /prd/v1/product/69fc81f88fb0e33152665aa8/resend (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+2026-05-07 11:47:39,757 [INFO] [GET] SKU: 29504-9
+2026-05-07 11:47:41,962 [INFO] SKU 29504-9 -> product_id: 69fc81f55b288de07094cfe8
+2026-05-07 11:47:41,964 [INFO] [PUT] Resend product_id: 69fc81f55b288de07094cfe8
+2026-05-07 11:47:45,243 [INFO] Resend sucesso: 69fc81f55b288de07094cfe8
+2026-05-07 11:47:45,750 [INFO] [GET] SKU: 59050
+2026-05-07 11:47:51,259 [INFO] SKU 59050 -> product_id: 69fc81f6abb4183d04629a05
+2026-05-07 11:47:51,260 [INFO] [PUT] Resend product_id: 69fc81f6abb4183d04629a05
+2026-05-07 11:47:52,412 [INFO] Resend sucesso: 69fc81f6abb4183d04629a05
+2026-05-07 11:47:52,914 [INFO] [GET] SKU: E0192-3
+2026-05-07 11:47:58,629 [INFO] SKU E0192-3 -> product_id: 69fc8ffaabb4183d0478b057
+2026-05-07 11:47:58,631 [INFO] [PUT] Resend product_id: 69fc8ffaabb4183d0478b057
+2026-05-07 11:47:59,666 [INFO] Resend sucesso: 69fc8ffaabb4183d0478b057
+2026-05-07 11:48:00,169 [INFO] [GET] SKU: 114570
+2026-05-07 11:48:02,406 [INFO] SKU 114570 -> product_id: 69fc925983bc70bbd079b8d8
+2026-05-07 11:48:02,408 [INFO] [PUT] Resend product_id: 69fc925983bc70bbd079b8d8
+2026-05-07 11:48:11,170 [INFO] Resend sucesso: 69fc925983bc70bbd079b8d8
+2026-05-07 11:48:11,678 [INFO] [GET] SKU: 114569
+2026-05-07 11:48:33,225 [INFO] SKU 114569 -> product_id: 69fc92578fb0e33152802f15
+2026-05-07 11:48:33,228 [INFO] [PUT] Resend product_id: 69fc92578fb0e33152802f15
+2026-05-07 11:48:53,479 [INFO] Resend sucesso: 69fc92578fb0e33152802f15
+2026-05-07 11:48:53,984 [INFO] [GET] SKU: 114568
+2026-05-07 11:48:55,015 [INFO] SKU 114568 -> product_id: 69fc92548fb0e33152802bc1
+2026-05-07 11:48:55,017 [INFO] [PUT] Resend product_id: 69fc92548fb0e33152802bc1
+2026-05-07 11:48:58,842 [INFO] Resend sucesso: 69fc92548fb0e33152802bc1
+2026-05-07 11:48:59,348 [INFO] [GET] SKU: 114567
+2026-05-07 11:49:02,909 [INFO] SKU 114567 -> product_id: 69fc92511e7edc2e31c75a70
+2026-05-07 11:49:02,911 [INFO] [PUT] Resend product_id: 69fc92511e7edc2e31c75a70
+2026-05-07 11:49:11,352 [INFO] Resend sucesso: 69fc92511e7edc2e31c75a70
+2026-05-07 11:49:11,859 [INFO] [GET] SKU: 114566
+2026-05-07 11:49:12,805 [INFO] SKU 114566 -> product_id: 69fc900137e48995b25d6add
+2026-05-07 11:49:12,807 [INFO] [PUT] Resend product_id: 69fc900137e48995b25d6add
+2026-05-07 11:49:14,603 [INFO] Resend sucesso: 69fc900137e48995b25d6add
+2026-05-07 11:49:15,110 [INFO] [GET] SKU: 114565
+2026-05-07 11:49:15,997 [INFO] SKU 114565 -> product_id: 69fc8fff37e48995b25d65e1
+2026-05-07 11:49:15,999 [INFO] [PUT] Resend product_id: 69fc8fff37e48995b25d65e1
+2026-05-07 11:49:18,028 [INFO] Resend sucesso: 69fc8fff37e48995b25d65e1
+2026-05-07 11:49:18,535 [INFO] [GET] SKU: 114564
+2026-05-07 11:49:22,225 [INFO] SKU 114564 -> product_id: 69fc8ffdabb4183d0478b42a
+2026-05-07 11:49:22,228 [INFO] [PUT] Resend product_id: 69fc8ffdabb4183d0478b42a
+2026-05-07 11:49:23,258 [INFO] Resend sucesso: 69fc8ffdabb4183d0478b42a
+2026-05-07 11:49:23,765 [INFO] [GET] SKU: 114563
+2026-05-07 11:49:33,815 [INFO] SKU 114563 -> product_id: 69fc8ffa5b288de070aae1ea
+2026-05-07 11:49:33,817 [INFO] [PUT] Resend product_id: 69fc8ffa5b288de070aae1ea
+2026-05-07 11:49:34,845 [INFO] Resend sucesso: 69fc8ffa5b288de070aae1ea
+2026-05-07 11:49:35,351 [INFO] [GET] SKU: E0195-460
+2026-05-07 11:50:02,290 [INFO] SKU E0195-460 -> product_id: 69fc925b83bc70bbd079baed
+2026-05-07 11:50:02,292 [INFO] [PUT] Resend product_id: 69fc925b83bc70bbd079baed
+2026-05-07 11:50:03,289 [INFO] Resend sucesso: 69fc925b83bc70bbd079baed
+2026-05-07 11:50:03,792 [INFO] [GET] SKU: 114578
+2026-05-07 11:50:12,604 [INFO] SKU 114578 -> product_id: 69fc926b1e7edc2e31c77ebc
+2026-05-07 11:50:12,606 [INFO] [PUT] Resend product_id: 69fc926b1e7edc2e31c77ebc
+2026-05-07 11:51:27,919 [ERROR] Erro inesperado no SKU 114578: HTTPSConnectionPool(host='middleware-prd.api.integra.do', port=443): Max retries exceeded with url: /prd/v1/product/69fc926b1e7edc2e31c77ebc/resend (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+Traceback (most recent call last):
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/util/ssl_.py", line 483, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/util/ssl_.py", line 527, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/ssl.py", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/ssl.py", line 1040, in _create
+    self.do_handshake()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/ssl.py", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: EOF occurred in violation of protocol (_ssl.c:1129)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/urllib3/util/retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='middleware-prd.api.integra.do', port=443): Max retries exceeded with url: /prd/v1/product/69fc926b1e7edc2e31c77ebc/resend (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/guilhermedorigon/Faculdade/1semestre/programacao_computadores/envioProd.py", line 299, in main
+    resend_produto(product_id)
+  File "/Users/guilhermedorigon/Faculdade/1semestre/programacao_computadores/envioProd.py", line 279, in resend_produto
+    response = requests.put(url, headers=HEADERS, json=payload)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/api.py", line 130, in put
+    return request("put", url, data=data, **kwargs)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/guilhermedorigon/Library/Python/3.9/lib/python/site-packages/requests/adapters.py", line 675, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='middleware-prd.api.integra.do', port=443): Max retries exceeded with url: /prd/v1/product/69fc926b1e7edc2e31c77ebc/resend (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)')))
+2026-05-07 11:51:27,924 [INFO] [GET] SKU: 114577
+2026-05-07 11:51:38,517 [INFO] SKU 114577 -> product_id: 69fc9269c087402d70c980fc
+2026-05-07 11:51:38,519 [INFO] [PUT] Resend product_id: 69fc9269c087402d70c980fc
+2026-05-07 11:51:39,471 [INFO] Resend sucesso: 69fc9269c087402d70c980fc
+2026-05-07 11:51:39,975 [INFO] [GET] SKU: 114575
+2026-05-07 11:51:45,754 [INFO] SKU 114575 -> product_id: 69fc9267374ce96be9cc6970
+2026-05-07 11:51:45,757 [INFO] [PUT] Resend product_id: 69fc9267374ce96be9cc6970
+2026-05-07 11:51:51,913 [INFO] Resend sucesso: 69fc9267374ce96be9cc6970
+2026-05-07 11:51:52,420 [INFO] [GET] SKU: 114576
+2026-05-07 11:52:16,498 [INFO] SKU 114576 -> product_id: 69fc9265b4c0f7df680659f8
+2026-05-07 11:52:16,500 [INFO] [PUT] Resend product_id: 69fc9265b4c0f7df680659f8
+2026-05-07 11:52:29,640 [INFO] Resend sucesso: 69fc9265b4c0f7df680659f8
+2026-05-07 11:52:30,147 [INFO] [GET] SKU: 114574
+2026-05-07 11:52:31,761 [INFO] SKU 114574 -> product_id: 69fc9262c087402d70c974c9
+2026-05-07 11:52:31,763 [INFO] [PUT] Resend product_id: 69fc9262c087402d70c974c9
+2026-05-07 11:52:39,734 [INFO] Resend sucesso: 69fc9262c087402d70c974c9
+2026-05-07 11:52:40,237 [INFO] [GET] SKU: 114573
+2026-05-07 11:52:41,267 [INFO] SKU 114573 -> product_id: 69fc925fdcb154c1e3289543
+2026-05-07 11:52:41,268 [INFO] [PUT] Resend product_id: 69fc925fdcb154c1e3289543
+2026-05-07 11:52:42,901 [INFO] Resend sucesso: 69fc925fdcb154c1e3289543
+2026-05-07 11:52:43,407 [INFO] [GET] SKU: 114572
+2026-05-07 11:52:48,292 [INFO] SKU 114572 -> product_id: 69fc925d5b288de070aeb1b3
+2026-05-07 11:52:48,294 [INFO] [PUT] Resend product_id: 69fc925d5b288de070aeb1b3
+2026-05-07 11:52:53,343 [INFO] Resend sucesso: 69fc925d5b288de070aeb1b3
+2026-05-07 11:52:53,850 [INFO] [GET] SKU: 114571
+2026-05-07 11:52:55,254 [INFO] SKU 114571 -> product_id: 69fc925b37e48995b26127bc
+2026-05-07 11:52:55,256 [INFO] [PUT] Resend product_id: 69fc925b37e48995b26127bc
+2026-05-07 11:52:56,162 [INFO] Resend sucesso: 69fc925b37e48995b26127bc
+2026-05-07 11:52:56,669 [INFO] [GET] SKU: E0201-9
+2026-05-07 11:53:02,006 [INFO] SKU E0201-9 -> product_id: 69fc926d8fb0e33152804e43
+2026-05-07 11:53:02,008 [INFO] [PUT] Resend product_id: 69fc926d8fb0e33152804e43
+2026-05-07 11:53:07,166 [INFO] Resend sucesso: 69fc926d8fb0e33152804e43
+2026-05-07 11:53:07,670 [INFO] [GET] SKU: 114594
+2026-05-07 11:53:10,069 [INFO] SKU 114594 -> product_id: 69fc94abdcb154c1e32c28e5
+2026-05-07 11:53:10,071 [INFO] [PUT] Resend product_id: 69fc94abdcb154c1e32c28e5
+2026-05-07 11:53:12,025 [INFO] Resend sucesso: 69fc94abdcb154c1e32c28e5
+2026-05-07 11:53:12,528 [INFO] [GET] SKU: 114593
+2026-05-07 11:53:16,586 [INFO] SKU 114593 -> product_id: 69fc94a9dcb154c1e32c2564
+2026-05-07 11:53:16,588 [INFO] [PUT] Resend product_id: 69fc94a9dcb154c1e32c2564
+2026-05-07 11:53:18,769 [INFO] Resend sucesso: 69fc94a9dcb154c1e32c2564
+2026-05-07 11:53:19,274 [INFO] [GET] SKU: 114592
+2026-05-07 11:53:23,242 [INFO] SKU 114592 -> product_id: 69fc927937e48995b26155e5
+2026-05-07 11:53:23,244 [INFO] [PUT] Resend product_id: 69fc927937e48995b26155e5
+2026-05-07 11:53:29,225 [INFO] Resend sucesso: 69fc927937e48995b26155e5
+2026-05-07 11:53:29,732 [INFO] [GET] SKU: 114591
+2026-05-07 11:53:33,806 [INFO] SKU 114591 -> product_id: 69fc92761e7edc2e31c7937f
+2026-05-07 11:53:33,808 [INFO] [PUT] Resend product_id: 69fc92761e7edc2e31c7937f
+2026-05-07 11:53:36,719 [INFO] Resend sucesso: 69fc92761e7edc2e31c7937f
+2026-05-07 11:53:37,226 [INFO] [GET] SKU: 114590
+2026-05-08 13:45:37,830 [INFO] [GET] SKU: 25387-0
+2026-05-08 13:45:38,956 [INFO] SKU 25387-0 -> product_id: 69fde6701e7edc2e31f2b562
+2026-05-08 13:45:38,958 [INFO] [PUT] Resend product_id: 69fde6701e7edc2e31f2b562
+2026-05-08 13:45:39,877 [INFO] Resend sucesso: 69fde6701e7edc2e31f2b562
+2026-05-08 13:45:40,383 [INFO] [GET] SKU: 29531-0
+2026-05-08 13:45:41,346 [INFO] SKU 29531-0 -> product_id: 69fde6878fb0e33152ac5a1b
+2026-05-08 13:45:41,348 [INFO] [PUT] Resend product_id: 69fde6878fb0e33152ac5a1b
+2026-05-08 13:45:42,446 [INFO] Resend sucesso: 69fde6878fb0e33152ac5a1b
+2026-05-08 13:45:42,952 [INFO] [GET] SKU: 29900
+2026-05-08 13:45:43,857 [INFO] SKU 29900 -> product_id: 69fde68eb4c0f7df6832d9e6
+2026-05-08 13:45:43,859 [INFO] [PUT] Resend product_id: 69fde68eb4c0f7df6832d9e6
+2026-05-08 13:45:44,806 [INFO] Resend sucesso: 69fde68eb4c0f7df6832d9e6
+2026-05-08 13:45:45,313 [INFO] [GET] SKU: 29933-3
+2026-05-08 13:45:46,208 [INFO] SKU 29933-3 -> product_id: 69fde692c087402d70f56ddc
+2026-05-08 13:45:46,210 [INFO] [PUT] Resend product_id: 69fde692c087402d70f56ddc

@@ -1,0 +1,453 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz - SafeTeen</title>
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      }
+
+      body {
+        background: #f5f5f5;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+
+      /* HEADER */
+
+      .header {
+        background: linear-gradient(135deg, #00d95c 0%, #00b84d 100%);
+        color: white;
+        padding: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        box-shadow: 0 4px 12px rgba(0, 217, 92, 0.2);
+      }
+
+      .header-back {
+        font-size: 32px;
+        cursor: pointer;
+        transition: transform 0.2s ease;
+      }
+
+      .header-back:hover {
+        transform: scale(1.1);
+      }
+
+      .header h1 {
+        font-size: 32px;
+        font-weight: 700;
+        flex: 1;
+        text-align: center;
+      }
+
+      .header-spacer {
+        width: 32px;
+      }
+
+      /* STATUS BAR */
+
+      .status-bar {
+        background: linear-gradient(135deg, #00d95c 0%, #00b84d 100%);
+        color: white;
+        padding: 16px 20px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        gap: 20px;
+      }
+
+      .status-item {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: 18px;
+        font-weight: 600;
+        background: rgba(255, 255, 255, 0.15);
+        padding: 10px 20px;
+        border-radius: 12px;
+        backdrop-filter: blur(10px);
+      }
+
+      .status-icon {
+        font-size: 24px;
+      }
+
+      /* ACTION BUTTONS */
+
+      .action-buttons {
+        background: linear-gradient(135deg, #00d95c 0%, #00b84d 100%);
+        padding: 16px 20px;
+        display: flex;
+        gap: 14px;
+        justify-content: center;
+      }
+
+      .btn {
+        flex: 1;
+        max-width: 400px;
+        padding: 14px 28px;
+        border: none;
+        border-radius: 12px;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+      }
+
+      .btn-pull {
+        background: rgba(255, 255, 255, 0.2);
+        color: white;
+        border: 2px solid rgba(255, 255, 255, 0.4);
+      }
+
+      .btn-pull:hover {
+        background: rgba(255, 255, 255, 0.3);
+        transform: translateY(-2px);
+      }
+
+      .btn-tip {
+        background: rgba(255, 255, 255, 0.2);
+        color: white;
+        border: 2px solid rgba(255, 255, 255, 0.4);
+      }
+
+      .btn-tip:hover {
+        background: rgba(255, 255, 255, 0.3);
+        transform: translateY(-2px);
+      }
+
+      /* MAIN CONTENT */
+
+      .container {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        padding: 40px 20px;
+        background: white;
+      }
+
+      /* PROGRESS CIRCLE */
+
+      .progress-section {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+      }
+
+      .progress-circle {
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+        background: conic-gradient(#00d95c 0deg, #00d95c 234.4deg, #e0e0e0 234.4deg);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 8px 24px rgba(0, 217, 92, 0.2);
+      }
+
+      .progress-inner {
+        width: 130px;
+        height: 130px;
+        border-radius: 50%;
+        background: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .progress-number {
+        font-size: 48px;
+        font-weight: 800;
+        color: #1a1a1a;
+      }
+
+      .progress-label {
+        font-size: 12px;
+        color: #999;
+        font-weight: 600;
+        margin-top: 4px;
+      }
+
+      /* QUESTION */
+
+      .question-section {
+        text-align: center;
+        margin-bottom: 50px;
+        position: relative;
+      }
+
+      .question-text {
+        font-size: 20px;
+        font-weight: 600;
+        color: #333;
+        line-height: 1.5;
+        margin-bottom: 30px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+
+      .question-icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+        font-size: 32px;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+      }
+
+      .question-icon:hover {
+        transform: scale(1.1);
+      }
+
+      /* KEYBOARD */
+
+      .keyboard {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+        margin-top: 30px;
+      }
+
+      .keyboard-row {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+      }
+
+      .key {
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, #00d95c 0%, #00b84d 100%);
+        border: none;
+        color: white;
+        font-size: 18px;
+        font-weight: 700;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.2s ease;
+        box-shadow: 0 4px 12px rgba(0, 217, 92, 0.2);
+      }
+
+      .key:hover {
+        transform: scale(1.1);
+        box-shadow: 0 6px 16px rgba(0, 217, 92, 0.4);
+      }
+
+      .key:active {
+        transform: scale(0.95);
+      }
+
+      .key.disabled {
+        background: #cccccc;
+        cursor: not-allowed;
+        opacity: 0.5;
+      }
+
+      .key.disabled:hover {
+        transform: scale(1);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      }
+
+      /* SPACER FOR KEYBOARD ROW 2 */
+
+      .keyboard-row.row2 {
+        margin-left: 30px;
+      }
+
+      .keyboard-row.row3 {
+        margin-left: 60px;
+      }
+
+      @media (max-width: 768px) {
+        .header h1 {
+          font-size: 24px;
+        }
+
+        .status-bar {
+          flex-wrap: wrap;
+          gap: 12px;
+        }
+
+        .status-item {
+          font-size: 14px;
+          padding: 8px 14px;
+        }
+
+        .action-buttons {
+          flex-direction: column;
+        }
+
+        .btn {
+          max-width: 100%;
+        }
+
+        .question-text {
+          font-size: 16px;
+        }
+
+        .key {
+          width: 44px;
+          height: 44px;
+          font-size: 14px;
+        }
+
+        .keyboard-row.row2 {
+          margin-left: 22px;
+        }
+
+        .keyboard-row.row3 {
+          margin-left: 44px;
+        }
+      }
+
+      @media (max-width: 480px) {
+        .container {
+          padding: 20px 12px;
+        }
+
+        .progress-circle {
+          width: 110px;
+          height: 110px;
+        }
+
+        .progress-inner {
+          width: 100px;
+          height: 100px;
+        }
+
+        .progress-number {
+          font-size: 36px;
+        }
+
+        .key {
+          width: 38px;
+          height: 38px;
+          font-size: 12px;
+        }
+
+        .keyboard-row.row2 {
+          margin-left: 19px;
+        }
+
+        .keyboard-row.row3 {
+          margin-left: 38px;
+        }
+
+        .question-text {
+          font-size: 14px;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- HEADER -->
+    <div class="header">
+      <div class="header-back">‹</div>
+      <h1>Quiz</h1>
+      <div class="header-spacer"></div>
+    </div>
+
+    <!-- STATUS BAR -->
+    <div class="status-bar">
+      <div class="status-item">
+        <span class="status-icon">⏱</span>
+        <span>30</span>
+      </div>
+      <div class="status-item">
+        <span class="status-icon">⭐</span>
+        <span>13 / 20</span>
+      </div>
+      <div class="status-item">
+        <span class="status-icon">ℹ️</span>
+        <span>17.500</span>
+      </div>
+    </div>
+
+    <!-- ACTION BUTTONS -->
+    <div class="action-buttons">
+      <button class="btn btn-pull">⤴ Pular</button>
+      <button class="btn btn-tip">💡 Dica</button>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div class="container">
+      <!-- PROGRESS CIRCLE -->
+      <div class="progress-section">
+        <div class="progress-circle">
+          <div class="progress-inner">
+            <div class="progress-number">52</div>
+            <div class="progress-label">Nível 1</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- QUESTION -->
+      <div class="question-section">
+        <div class="question-text">
+          Qual variação emocional muda várias vezes ao dia na puberdade devido à oscilação dos hormônios?
+        </div>
+        <div class="question-icon">💡</div>
+      </div>
+
+      <!-- QWERTY KEYBOARD -->
+      <div class="keyboard">
+        <!-- Row 1: Q W E R T Y U I O P -->
+        <div class="keyboard-row row1">
+          <button class="key">Q</button>
+          <button class="key">W</button>
+          <button class="key">E</button>
+          <button class="key">R</button>
+          <button class="key">T</button>
+          <button class="key">Y</button>
+          <button class="key">U</button>
+          <button class="key">I</button>
+          <button class="key">O</button>
+          <button class="key">P</button>
+        </div>
+
+        <!-- Row 2: A S D F G H J K L -->
+        <div class="keyboard-row row2">
+          <button class="key">A</button>
+          <button class="key">S</button>
+          <button class="key">D</button>
+          <button class="key">F</button>
+          <button class="key">G</button>
+          <button class="key">H</button>
+          <button class="key">J</button>
+          <button class="key">K</button>
+          <button class="key">L</button>
+        </div>
+
+        <!-- Row 3: Z X C V B N M -->
+        <div class="keyboard-row row3">
+          <button class="key">Z</button>
+          <button class="key">X</button>
+          <button class="key">C</button>
+          <button class="key">V</button>
+          <button class="key">B</button>
+          <button class="key">N</button>
+          <button class="key">M</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
