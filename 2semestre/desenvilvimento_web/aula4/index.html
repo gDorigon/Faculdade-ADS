@@ -62,7 +62,7 @@ ve
           </fieldset>
 
           <fieldset>
-            <legend>Detalhes do projeto</legend>
+            <legend>Configuração do projeto</legend>
             <div>
               <label for="potencia_id">Potência estimada (cv):</label>
               <input id="potencia_id" name="potencia" type="number" min="1" />
@@ -107,35 +107,6 @@ ve
                 <label for="personalizado_id">Personalizado</label>
               </div>
             </div>
-          </fieldset>
-
-          <fieldset>
-            <legend>Localização e observações</legend>
-            <div>
-              <label for="cidade_id">Cidade:</label>
-              <input id="cidade_id" name="cidade" type="text" />
-            </div>
-            <div>
-              <label for="estado_id">Estado:</label>
-              <input id="estado_id" name="estado" type="text" />
-            </div>
-            <div>
-              <label for="orcamento_id">Orçamento estimado:</label>
-              <input id="orcamento_id" name="orcamento" type="text" />
-            </div>
-            <div>
-              <label for="observacoes_id">Observações:</label>
-              <textarea
-                id="observacoes_id"
-                name="observacoes"
-                rows="6"
-                cols="50"
-              ></textarea>
-            </div>
-          </fieldset>
-
-          <fieldset>
-            <legend>Acessórios desejados</legend>
             <div>
               <input
                 id="turbo_id"
@@ -162,6 +133,35 @@ ve
                 value="som"
               />
               <label for="som_id">Som automotivo</label>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Localização</legend>
+            <div>
+              <label for="cidade_id">Cidade:</label>
+              <input id="cidade_id" name="cidade" type="text" />
+            </div>
+            <div>
+              <label for="estado_id">Estado:</label>
+              <input id="estado_id" name="estado" type="text" />
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Planejamento do projeto</legend>
+            <div>
+              <label for="orcamento_id">Orçamento estimado:</label>
+              <input id="orcamento_id" name="orcamento" type="text" />
+            </div>
+            <div>
+              <label for="observacoes_id">Observações:</label>
+              <textarea
+                id="observacoes_id"
+                name="observacoes"
+                rows="6"
+                cols="50"
+              ></textarea>
             </div>
           </fieldset>
 
