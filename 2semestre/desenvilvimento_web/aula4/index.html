@@ -1,0 +1,179 @@
+ve
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simulador Fueltech</title>
+  </head>
+  <body>
+    <header>
+      <h1>Simulador Fueltech</h1>
+    </header>
+    <main>
+      <section>
+        <h2>Cadastre seu projeto de carro</h2>
+        <form
+          action="https://postman-echo.com/post"
+          method="post"
+          enctype="multipart/form-data"
+        >
+          <p>Preencha os dados do projeto para cadastro do veículo.</p>
+
+          <fieldset>
+            <legend>Informações do veículo</legend>
+            <div>
+              <label for="foto_id">Foto do carro:</label>
+              <input id="foto_id" name="foto" type="file" />
+            </div>
+            <div>
+              <label for="marca_id">Marca:</label>
+              <input id="marca_id" name="marca" type="text" required />
+            </div>
+            <div>
+              <label for="modelo_id">Modelo:</label>
+              <input
+                id="modelo_id"
+                name="modelo"
+                type="text"
+                placeholder="Ex.: Camaro SS"
+              />
+            </div>
+            <div>
+              <label for="ano_id">Ano:</label>
+              <input
+                id="ano_id"
+                name="ano"
+                type="number"
+                min="1900"
+                max="2100"
+              />
+            </div>
+            <div>
+              <label for="placa_id">Placa:</label>
+              <input
+                id="placa_id"
+                name="placa"
+                type="text"
+                pattern="[A-Z]{3}-\d{4}"
+                placeholder="ABC-1234"
+              />
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Detalhes do projeto</legend>
+            <div>
+              <label for="potencia_id">Potência estimada (cv):</label>
+              <input id="potencia_id" name="potencia" type="number" min="1" />
+            </div>
+            <div>
+              <label for="combustivel_id">Combustível:</label>
+              <select id="combustivel_id" name="combustivel">
+                <option value="gasolina">Gasolina</option>
+                <option value="etanol">Etanol</option>
+                <option value="diesel">Diesel</option>
+                <option value="flex">Flex</option>
+                <option value="hibrido">Híbrido</option>
+              </select>
+            </div>
+            <div>
+              <label>Tipo de projeto:</label>
+              <div>
+                <input
+                  id="urbano_id"
+                  name="tipo_projeto"
+                  type="radio"
+                  value="urbano"
+                />
+                <label for="urbano_id">Urbano</label>
+              </div>
+              <div>
+                <input
+                  id="racing_id"
+                  name="tipo_projeto"
+                  type="radio"
+                  value="racing"
+                />
+                <label for="racing_id">Racing</label>
+              </div>
+              <div>
+                <input
+                  id="personalizado_id"
+                  name="tipo_projeto"
+                  type="radio"
+                  value="personalizado"
+                />
+                <label for="personalizado_id">Personalizado</label>
+              </div>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Localização e observações</legend>
+            <div>
+              <label for="cidade_id">Cidade:</label>
+              <input id="cidade_id" name="cidade" type="text" />
+            </div>
+            <div>
+              <label for="estado_id">Estado:</label>
+              <input id="estado_id" name="estado" type="text" />
+            </div>
+            <div>
+              <label for="orcamento_id">Orçamento estimado:</label>
+              <input id="orcamento_id" name="orcamento" type="text" />
+            </div>
+            <div>
+              <label for="observacoes_id">Observações:</label>
+              <textarea
+                id="observacoes_id"
+                name="observacoes"
+                rows="6"
+                cols="50"
+              ></textarea>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Acessórios desejados</legend>
+            <div>
+              <input
+                id="turbo_id"
+                name="acessorios"
+                type="checkbox"
+                value="turbo"
+              />
+              <label for="turbo_id">Turbo</label>
+            </div>
+            <div>
+              <input
+                id="freio_id"
+                name="acessorios"
+                type="checkbox"
+                value="freio"
+              />
+              <label for="freio_id">Freios performance</label>
+            </div>
+            <div>
+              <input
+                id="som_id"
+                name="acessorios"
+                type="checkbox"
+                value="som"
+              />
+              <label for="som_id">Som automotivo</label>
+            </div>
+          </fieldset>
+
+          <div>
+            <button type="reset">Limpar</button>
+            <button type="submit">Enviar</button>
+          </div>
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 Minha Empresa. Todos os direitos reservados.</p>
+    </footer>
+  </body>
+</html>
