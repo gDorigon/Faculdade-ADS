@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "novo-aula16",
+    "slug": "novo-aula16",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-video"
+    ]
+  }
+}
